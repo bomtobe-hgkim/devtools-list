@@ -1,0 +1,3428 @@
+[
+  {
+    "slug": "trigger-dev",
+    "name": "Trigger.dev",
+    "url": "https://trigger.dev",
+    "description": "Trigger.dev is the open source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, observability, and elastic scaling."
+  },
+  {
+    "slug": "resend",
+    "name": "Resend",
+    "url": "https://resend.com",
+    "description": "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale."
+  },
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "url": "https://supabase.com",
+    "description": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free."
+  },
+  {
+    "slug": "workos",
+    "name": "WorkOS",
+    "url": "https://workos.com",
+    "description": "Developer APIs/SDKs for Enterprise Ready features like Single Sign-On, Directory Sync, Audit Logging, and more. Get started for free."
+  },
+  {
+    "slug": "clerk",
+    "name": "Clerk",
+    "url": "https://clerk.com",
+    "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”."
+  },
+  {
+    "slug": "sentry",
+    "name": "Sentry",
+    "url": "https://sentry.io",
+    "description": "Application performance monitoring for developers & software teams to see errors clearer, solve issues faster & continue learning continuously. Get started at sentry.io."
+  },
+  {
+    "slug": "railway",
+    "name": "Railway",
+    "url": "https://railway.com",
+    "description": "Railway is a full-stack cloud for deploying web apps, servers, databases, and more with automatic scaling, monitoring, and security."
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "description": "Cloud platform for building, deploying, and scaling web applications and AI workloads."
+  },
+  {
+    "slug": "honeycomb",
+    "name": "Honeycomb",
+    "url": "https://www.honeycomb.io",
+    "description": "Honeycomb is the observability platform built for AI-era software. Fast queries, unified telemetry, and LLM observability. Used by Slack, Intercom, and Dropbox."
+  },
+  {
+    "slug": "deeptrace",
+    "name": "DeepTrace",
+    "url": "https://deeptrace.com",
+    "description": "AI site reliability engineer for investigating and resolving production incidents."
+  },
+  {
+    "slug": "incident-io",
+    "name": "Incident.io",
+    "url": "https://incident.io",
+    "description": "incident.io is a software reliability platform unifying on-call, agentic root cause analysis, incident response, and status pages – helping teams resolve issues faster."
+  },
+  {
+    "slug": "retool",
+    "name": "Retool",
+    "url": "https://retool.com",
+    "description": "Build, deploy, and manage internal tools with Retool's unified engine. Connect to any database, API, or LLM. Leverage AI throughout your business."
+  },
+  {
+    "slug": "vibe-kanban",
+    "name": "Vibe Kanban",
+    "url": "https://vibekanban.com",
+    "description": "The ultimate project management tool for teams building with AI coding agents."
+  },
+  {
+    "slug": "c15t",
+    "name": "c15t",
+    "url": "https://c15t.com",
+    "description": "c15t is an open-source consent management platform for React, Next.js, and modern JavaScript applications. It provides consent UI, consent-aware script loading, and self-hosted or managed deployment options."
+  },
+  {
+    "slug": "aws",
+    "name": "Amazon Web Services",
+    "url": "https://aws.amazon.com",
+    "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
+  },
+  {
+    "slug": "bitdrift",
+    "name": "Bitdrift",
+    "url": "https://bitdrift.io",
+    "description": "Get real-world visibility into your mobile app. Capture rich on-device logs and surface important sessions for quick debugging - no waiting on a release."
+  },
+  {
+    "slug": "marimo",
+    "name": "marimo",
+    "url": "https://marimo.io",
+    "description": "Explore data and build apps seamlessly with marimo, a next-generation Python notebook. Open source, reactive, and Git-friendly. Try it free in your browser."
+  },
+  {
+    "slug": "mintlify",
+    "name": "Mintlify",
+    "url": "https://mintlify.com",
+    "description": "Documentation platform for creating and maintaining developer and product documentation."
+  },
+  {
+    "slug": "ona",
+    "name": "Ona",
+    "url": "https://ona.com",
+    "description": "Run a team of AI software engineers in the cloud. Orchestrated, governed, secured at the kernel."
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare",
+    "url": "https://cloudflare.com",
+    "description": "Connectivity cloud providing CDN, security, networking, compute, and developer services."
+  },
+  {
+    "slug": "mastra",
+    "name": "Mastra",
+    "url": "https://mastra.ai",
+    "description": "Ship AI agents that reason, remember, and act in TypeScript. Mastra provides memory, tools, MCP, and observability to go from prototype to production."
+  },
+  {
+    "slug": "ittybit",
+    "name": "ittybit",
+    "url": "https://ittybit.com",
+    "description": "API and infrastructure for uploading, processing, and delivering video and other media."
+  },
+  {
+    "slug": "zencoder",
+    "name": "Zencoder",
+    "url": "https://zencoder.ai",
+    "description": "Discover Zencoder's AI Coding Agent Platform for seamless code execution and collaboration. Boost productivity with advanced analytics, flexible deployment, and custom agents for your team."
+  },
+  {
+    "slug": "inngest",
+    "name": "Inngest",
+    "url": "https://inngest.com",
+    "description": "Build reliable background jobs, workflows, and AI agents without extra infrastructure. Automatic retries, flow control, and step-level observability."
+  },
+  {
+    "slug": "opencomputer",
+    "name": "OpenComputer",
+    "url": "https://opencomputer.dev",
+    "description": "The background agent cloud. Every sandbox is a full Linux VM with hardware-level isolation via KVM. Long-running, checkpoint and fork, resize memory and CPU at runtime."
+  },
+  {
+    "slug": "datocms",
+    "name": "DatoCMS",
+    "url": "https://www.datocms.com",
+    "description": "The content platform for projects of any size, built around the needs of all team members. Simply put, the most user-friendly and performant headless CMS."
+  },
+  {
+    "slug": "greybeam",
+    "name": "Greybeam",
+    "url": "https://greybeam.ai",
+    "description": "Greybeam reduces costs on Snowflake read workloads on avg 86% by routing queries to their most efficient engines. No migrations or code changes required."
+  },
+  {
+    "slug": "braintrust",
+    "name": "Braintrust",
+    "url": "https://braintrust.dev",
+    "description": "Ship quality agents at scale. Braintrust is the AI observability platform for tracing production, running evals, and catching regressions before they reach users."
+  },
+  {
+    "slug": "composio",
+    "name": "Composio",
+    "url": "https://composio.dev",
+    "description": "Just-in-time tool calls, secure delegated auth, sandboxed environments, and parallel execution across 1,000+ apps."
+  },
+  {
+    "slug": "baseten",
+    "name": "Baseten",
+    "url": "https://baseten.co",
+    "description": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform."
+  },
+  {
+    "slug": "assemblyai",
+    "name": "AssemblyAI",
+    "url": "https://assemblyai.com",
+    "description": "With AssemblyAI's industry-leading Speech AI models, transcribe speech to text and extract insights from your voice data."
+  },
+  {
+    "slug": "apimatic",
+    "name": "APIMatic",
+    "url": "https://apimatic.io",
+    "description": "Automatically transform your OpenAPI specs into production-ready SDKs, developer portals, code samples, and AI tools. Trusted by PayPal, Verizon, and leading API companies."
+  },
+  {
+    "slug": "daytona",
+    "name": "Daytona",
+    "url": "https://daytona.io",
+    "description": "Deploy Al code with confidence using Daytona's lightning-fast infrastructure. 90ms environment creation, stateful operations, and enterprise-grade security."
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "description": "Create lifelike speech with our AI voice generator and voice agents platform. Access 5,000+ voices in 70+ languages with secure APIs and SDKs."
+  },
+  {
+    "slug": "greptile",
+    "name": "Greptile",
+    "url": "https://greptile.com",
+    "description": "AI Code Reviews that understand your entire codebase. Automate PR reviews, catch bugs faster, improve code quality with AI-driven analysis. Try Greptile free!"
+  },
+  {
+    "slug": "hanko",
+    "name": "Hanko",
+    "url": "https://hanko.io",
+    "description": "Open source, privacy-first, and built to scale. Hanko is the fastest way you integrate passkeys, 2FA, SSO, and more, with full control over your data. Move between self-hosted and Hanko Cloud anytime. No lock-in."
+  },
+  {
+    "slug": "jam-dev",
+    "name": "Jam.dev",
+    "url": "https://jam.dev",
+    "description": "Jam is a screen recorder for software teams. Capture bugs, feedback, and ideas with available console logs, network requests, device details, and user events."
+  },
+  {
+    "slug": "knock",
+    "name": "Knock",
+    "url": "https://knock.app",
+    "description": "Knock is customer engagement infrastructure for your product, marketing, and transactional messaging. Activate your data, ship cross-channel messaging, and accelerate growth."
+  },
+  {
+    "slug": "livekit",
+    "name": "LiveKit",
+    "url": "https://livekit.com",
+    "description": "An open source framework and developer platform for building, testing, deploying, scaling, and observing agents in production."
+  },
+  {
+    "slug": "modal",
+    "name": "Modal",
+    "url": "https://modal.com",
+    "description": "Bring your own code, and run CPU, GPU, and data-intensive compute at scale. The serverless platform for AI and data teams."
+  },
+  {
+    "slug": "northflank",
+    "name": "Northflank",
+    "url": "https://northflank.com",
+    "description": "Run AI agents, services, databases, and GPUs in secure microVMs. One governed path from commit to production, on our cloud or your own."
+  },
+  {
+    "slug": "nx",
+    "name": "Nx",
+    "url": "https://nx.dev",
+    "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and automatically fixes failed PRs. Built for developers and AI agents."
+  },
+  {
+    "slug": "pangea",
+    "name": "Pangea",
+    "url": "https://pangea.cloud",
+    "description": "Pangea empowers organizations to ship secure AI applications quickly with the industry's broadest set of AI security guardrails that can be added with just a few lines of code."
+  },
+  {
+    "slug": "prisma",
+    "name": "Prisma",
+    "url": "https://prisma.io",
+    "description": "Prisma gives TypeScript and Node.js teams Prisma ORM, Prisma Postgres, and Prisma Compute: a type-safe ORM, managed Postgres, and Compute for deploying TypeScript apps, from schema to deployed app."
+  },
+  {
+    "slug": "skyflow",
+    "name": "Skyflow",
+    "url": "https://skyflow.com",
+    "description": "The runtime AI data control platform for enterprises. Skyflow sanitizes data on ingest, protects it at runtime, and enforces policy so you can ship AI safely."
+  },
+  {
+    "slug": "storyblok",
+    "name": "Storyblok",
+    "url": "https://storyblok.com",
+    "description": "Storyblok is an intuitive content management system that helps your developer and marketing teams get value from your content faster and create innovative digital experiences."
+  },
+  {
+    "slug": "tiiny-host",
+    "name": "Tiiny.host",
+    "url": "https://tiiny.host",
+    "description": "Simple static web hosting for sharing HTML files, prototypes, and other web projects."
+  },
+  {
+    "slug": "windmill",
+    "name": "Windmill",
+    "url": "https://windmill.dev",
+    "description": "Built for teams to create and collaborate on internal software. Loved by engineers for full code flexibility and control over their infrastructure. Open-source and self-hostable."
+  },
+  {
+    "slug": "tldraw",
+    "name": "tldraw",
+    "url": "https://tldraw.dev",
+    "description": "The tldraw SDK provides tools, services, and APIs to build beautiful whiteboards and infinite canvas applications with real-time collaboration and a powerful React-based canvas."
+  },
+  {
+    "slug": "depot",
+    "name": "Depot",
+    "url": "https://depot.dev",
+    "description": "Remote build platform that accelerates Docker image builds and CI workloads."
+  },
+  {
+    "slug": "raycast",
+    "name": "Raycast",
+    "url": "https://raycast.com",
+    "description": "A collection of powerful productivity tools all within an extendable launcher."
+  },
+  {
+    "slug": "smol-ai",
+    "name": "smol.ai",
+    "url": "https://smol.ai",
+    "description": "Community, news, and events for engineers building with AI."
+  },
+  {
+    "slug": "arcjet",
+    "name": "Arcjet",
+    "url": "https://arcjet.com",
+    "description": "Arcjet is the runtime security platform that ships in your AI code. Detect prompt injection, authorize agent tool calls, redact sensitive data, and block bots and abuse."
+  },
+  {
+    "slug": "infisical",
+    "name": "Infisical",
+    "url": "https://infisical.com",
+    "description": "Infisical is the all-in-one identity security platform for developers, machines, and AI agents. Manage identities, secrets, certs, and access."
+  },
+  {
+    "slug": "lightdash",
+    "name": "Lightdash",
+    "url": "https://lightdash.com",
+    "description": "Lightdash is the AI-first, open-source BI platform for modern data teams. Connect to dbt, define metrics once, and get instant, trustworthy insights."
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "url": "https://posthog.com",
+    "description": "PostHog automatically diagnoses problems, fixes bugs, and generates pull requests – all without you having to prompt it."
+  },
+  {
+    "slug": "flagsmith",
+    "name": "Flagsmith",
+    "url": "https://flagsmith.com",
+    "description": "Flagsmith makes it easy to create and manage feature flags. Roll out, segment, and optimise. Stay secure with on-premise and private cloud hosting."
+  },
+  {
+    "slug": "typesense",
+    "name": "Typesense",
+    "url": "https://typesense.org",
+    "description": "Typesense is an open-source search engine for fast, typo-tolerant site and app search, with simple APIs, vector search, and self-hosting."
+  },
+  {
+    "slug": "turso",
+    "name": "Turso",
+    "url": "https://turso.tech",
+    "description": "Turso is the lightweight database that scales to millions of agents. Deploy databases everywhere—on servers, in browsers, on devices—just like files. A full SQLite drop-in replacement, built for the agentic future."
+  },
+  {
+    "slug": "working-copy",
+    "name": "Working Copy",
+    "url": "https://workingcopy.app",
+    "description": "Working Copy is the powerful Git client for iOS that clones, edits, commits, pushes and more."
+  },
+  {
+    "slug": "mergify",
+    "name": "Mergify",
+    "url": "https://mergify.com",
+    "description": "Merge queue and pull-request automation for GitHub development teams."
+  },
+  {
+    "slug": "escape",
+    "name": "Escape",
+    "url": "https://escape.tech",
+    "description": "Replace legacy scanners with AI agents for continuous discovery, pentesting & remediation. Business-logic-aware ASM, DAST, AI pentesting, trusted by 2000+ security teams."
+  },
+  {
+    "slug": "val-town",
+    "name": "Val Town",
+    "url": "https://val.town",
+    "description": "Social platform for writing, running, and deploying JavaScript and TypeScript functions."
+  },
+  {
+    "slug": "sst",
+    "name": "SST",
+    "url": "https://sst.dev",
+    "description": "Open-source framework for building and deploying full-stack applications on AWS."
+  },
+  {
+    "slug": "zuplo",
+    "name": "Zuplo",
+    "url": "https://zuplo.com",
+    "description": "Secure, govern, and observe every API, LLM, and MCP call on one programmable policy engine. AI Gateway, MCP Gateway, MCP Server, and API management — fully managed, live in minutes."
+  },
+  {
+    "slug": "rerun",
+    "name": "Rerun",
+    "url": "https://rerun.io",
+    "description": "The data primitives to build, understand, and improve your data loop. Designed for multi-rate, multimodal data, from the first recording to massive scale."
+  },
+  {
+    "slug": "polypane",
+    "name": "Polypane",
+    "url": "https://polypane.app",
+    "description": "Polypane has everything a browser has, plus all the tools you need to build responsive, fast, accessible, and SEO-friendly websites and apps, with multi-viewport synchronised previews and accessibility tooling."
+  },
+  {
+    "slug": "encore",
+    "name": "Encore",
+    "url": "https://encore.dev",
+    "description": "Build production backends with Encore. It provisions the cloud resources on your AWS or GCP, with the structure your team and your AI agents need to ship safely to production."
+  },
+  {
+    "slug": "opencage",
+    "name": "OpenCage",
+    "url": "https://opencagedata.com",
+    "description": "Worldwide forward and reverse geocoding API. Affordable, predictable pricing. GDPR compliant, made with open data, trusted by thousands of developers."
+  },
+  {
+    "slug": "gravity",
+    "name": "Gravity",
+    "url": "https://usegravity.app",
+    "description": "Launch your SaaS at warp speed with Gravity — the most trusted Node.js & React boilerplate, used by 1100+ developers."
+  },
+  {
+    "slug": "plural",
+    "name": "Plural",
+    "url": "https://plural.sh",
+    "description": "Upgrade clusters, resolve incidents, patch vulnerabilities, optimize cost, and execute changes across your code, cluster, and cloud."
+  },
+  {
+    "slug": "browserbase",
+    "name": "Browserbase",
+    "url": "https://browserbase.com",
+    "description": "Cloud browser infrastructure for web automation and AI agents."
+  },
+  {
+    "slug": "algolia",
+    "name": "Algolia",
+    "url": "https://algolia.com",
+    "description": "18,000+ organizations trust Algolia to build intuitive, adaptive, high-performing experiences with a unified AI search & retrieval platform spanning agentic, generative, and search."
+  },
+  {
+    "slug": "astro",
+    "name": "Astro",
+    "url": "https://astro.build",
+    "description": "Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in-between."
+  },
+  {
+    "slug": "ghostty",
+    "name": "Ghostty",
+    "url": "https://ghostty.org",
+    "description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+  },
+  {
+    "slug": "grafbase",
+    "name": "Grafbase",
+    "url": "https://grafbase.com",
+    "description": "Grafbase provides secure, self-hosted deployment options, unmatched query speed, and unified data access for reliable, enterprise-grade GraphQL API management."
+  },
+  {
+    "slug": "hookdeck",
+    "name": "Hookdeck",
+    "url": "https://hookdeck.com",
+    "description": "From webhooks to external event streams, Hookdeck ensures every event is received, processed, and monitored reliably at scale, giving you complete visibility and control."
+  },
+  {
+    "slug": "hygraph",
+    "name": "Hygraph",
+    "url": "https://hygraph.com",
+    "description": "A GraphQL-native headless CMS that marketers and developers love. Structure content, scale with AI, and launch faster across every channel."
+  },
+  {
+    "slug": "laravel",
+    "name": "Laravel",
+    "url": "https://laravel.com",
+    "description": "Laravel is a framework for building modern web apps and AI agents. Expressive syntax, built-in tools, and everything you need to ship fast."
+  },
+  {
+    "slug": "neon",
+    "name": "Neon",
+    "url": "https://neon.com",
+    "description": "The backend for apps and agents. Build with Lakebase Postgres, Auth, Functions, Storage, and an AI Gateway: instant, branchable, serverless."
+  },
+  {
+    "slug": "ngrok",
+    "name": "ngrok",
+    "url": "https://ngrok.com",
+    "description": "ngrok is developer infrastructure that routes and secures traffic to your apps, APIs, and AI models, wherever they run. Start on localhost, ship to prod."
+  },
+  {
+    "slug": "outsystems",
+    "name": "OutSystems",
+    "url": "https://outsystems.com",
+    "description": "OutSystems combines a low-code foundation with AI-driven software development to deliver enterprise apps and custom agents with full SDLC governance."
+  },
+  {
+    "slug": "pgmustard",
+    "name": "pgMustard",
+    "url": "https://pgmustard.com",
+    "description": "pgMustard is a Postgres EXPLAIN visualisation tool that also gives performance advice, scored based on its potential to speed up your query."
+  },
+  {
+    "slug": "planetscale",
+    "name": "PlanetScale",
+    "url": "https://planetscale.com",
+    "description": "PlanetScale offers the world’s fastest and most scalable cloud hosting for Vitess and Postgres."
+  },
+  {
+    "slug": "pydantic",
+    "name": "Pydantic",
+    "url": "https://pydantic.dev",
+    "description": "Pydantic is the AI engineering stack for teams building with AI. Observe with Logfire, evaluate with Pydantic Evals, build type-safe agents with Pydantic AI, and track LLM costs with AI Gateway."
+  },
+  {
+    "slug": "revenuecat",
+    "name": "RevenueCat",
+    "url": "https://revenuecat.com",
+    "description": "The world’s best apps use RevenueCat to power in-app purchases, manage customer data, and grow revenue across iOS, Android, and the web."
+  },
+  {
+    "slug": "signoz",
+    "name": "SigNoz",
+    "url": "https://signoz.io",
+    "description": "SigNoz Cloud is a one-stop observability tool built on top of OpenTelemetry. Get APM, logs, traces, metrics, exceptions, AI observability & alerts in a single tool."
+  },
+  {
+    "slug": "temporal",
+    "name": "Temporal",
+    "url": "https://temporal.io",
+    "description": "Build invincible apps with Temporal's open source durable execution platform. Eliminate complexity and ship features faster. Talk to an expert today!"
+  },
+  {
+    "slug": "wasp",
+    "name": "Wasp",
+    "url": "https://wasp.sh",
+    "description": "Full-stack web application framework with React, Node.js, and generated deployment configuration."
+  },
+  {
+    "slug": "workbrew",
+    "name": "Workbrew",
+    "url": "https://workbrew.com",
+    "description": "Start deploying from a library of over 15k packages within minutes. Enforce policies, manage vulnerabilities, and keep every package patched—automatically."
+  },
+  {
+    "slug": "render",
+    "name": "Render",
+    "url": "https://render.com",
+    "description": "Deploy and scale any app or agent from your first user to your billionth. Build faster on intuitive cloud infrastructure for the modern web."
+  },
+  {
+    "slug": "fly-io",
+    "name": "Fly.io",
+    "url": "https://fly.io",
+    "description": "Sandboxes aren't enough. Give your agent a real computer and get back to building."
+  },
+  {
+    "slug": "netlify",
+    "name": "Netlify",
+    "url": "https://netlify.com",
+    "description": "Create with AI or code, deploy instantly on production infrastructure. One platform to build and ship."
+  },
+  {
+    "slug": "digitalocean",
+    "name": "DigitalOcean",
+    "url": "https://digitalocean.com",
+    "description": "Run AI products in production with a unified stack for agents, inference, and cloud—built for control, performance, and economics at scale."
+  },
+  {
+    "slug": "heroku",
+    "name": "Heroku",
+    "url": "https://heroku.com",
+    "description": "Experience fully managed app hosting that just works. Build, deploy, and scale on the battle-tested platform that defines the industry."
+  },
+  {
+    "slug": "koyeb",
+    "name": "Koyeb",
+    "url": "https://koyeb.com",
+    "description": "Deploy intensive applications across GPUs, CPUs, and Accelerators in minutes - scale in 50+ locations."
+  },
+  {
+    "slug": "qovery",
+    "name": "Qovery",
+    "url": "https://qovery.com",
+    "description": "An infrastructure control plane for platform teams and their coding agents - Claude Code, Cursor, Codex. Policy-checked before it runs, logged and reversible, on your own cloud."
+  },
+  {
+    "slug": "porter",
+    "name": "Porter",
+    "url": "https://porter.run",
+    "description": "Deploy apps effortlessly to your AWS, GCP, or Azure account. SOC 2 & HIPAA compliant infrastructure with autoscaling. From git to prod in 60 seconds."
+  },
+  {
+    "slug": "ravion",
+    "name": "Ravion",
+    "url": "https://ravion.com",
+    "description": "Provision, deploy, and operate production-grade AWS infrastructure with developers and AI agents. Move fast without building every DevOps capability yourself."
+  },
+  {
+    "slug": "upsun",
+    "name": "Upsun",
+    "url": "https://upsun.com",
+    "description": "Upsun provides ultimate developer flexibility with self-service, predictable pricing. Customize your resources, runtimes, environments, and more. Start your free trial today!"
+  },
+  {
+    "slug": "aptible",
+    "name": "Aptible",
+    "url": "https://aptible.com",
+    "description": "Deploy apps, databases, and AI on isolated AWS infrastructure with security and compliance enforced by default. HITRUST R2 certified. BAA included."
+  },
+  {
+    "slug": "cycle",
+    "name": "Cycle",
+    "url": "https://cycle.io",
+    "description": "Cycle is the control plane that provisions your infrastructure, simplifies deployments, and runs distributed apps without demanding an ops team."
+  },
+  {
+    "slug": "cloud-66",
+    "name": "Cloud 66",
+    "url": "https://cloud66.com",
+    "description": "Deploy your applications to any cloud provider or your own servers. No lock-in, full control. From 1 to 1000 servers with Cloud 66's DevOps platform."
+  },
+  {
+    "slug": "stormkit",
+    "name": "Stormkit",
+    "url": "https://stormkit.io",
+    "description": "Stormkit is a self-hostable, full-featured alternative to Vercel and Netlify, offering powerful features such as deployment previews, multiple environments, and seamless integration with Git."
+  },
+  {
+    "slug": "zeabur",
+    "name": "Zeabur",
+    "url": "https://zeabur.com",
+    "description": "Application deployment platform with managed infrastructure and AI-assisted setup."
+  },
+  {
+    "slug": "shuttle",
+    "name": "Shuttle",
+    "url": "https://shuttle.dev",
+    "description": "Develop backends with zero infra setup using Shuttle: Code-driven cloud provisioning."
+  },
+  {
+    "slug": "massdriver",
+    "name": "Massdriver",
+    "url": "https://massdriver.cloud",
+    "description": "Self-service infrastructure for developers and AI agents. Platform engineering teams package the Terraform, OpenTofu, and Helm they already trust, and every deploy is policy-checked before it lands."
+  },
+  {
+    "slug": "humanitec",
+    "name": "Humanitec",
+    "url": "https://humanitec.com",
+    "description": "Humanitec empowers platform engineers to build the perfect Internal Developer Platform for the enterprise. Our products enable platform teams to reduce cognitive load, drive standardization and slash time to market."
+  },
+  {
+    "slug": "port",
+    "name": "Port",
+    "url": "https://port.io",
+    "description": "Port gives you the Context Lake, Workflow Orchestration, Agent Management, and Governance to build your AI-SDLC without losing control."
+  },
+  {
+    "slug": "opslevel",
+    "name": "OpsLevel",
+    "url": "https://opslevel.com",
+    "description": "Boost developer experience with OpsLevel – an internal developer portal unifying tools, knowledge, and tasks to help teams focus on coding, not operational roadblocks."
+  },
+  {
+    "slug": "cortex",
+    "name": "Cortex",
+    "url": "https://cortex.io",
+    "description": "Cortex is the Engineering Operations Platform that gives engineering teams the visibility, governance, and golden paths to ship faster with AI, without runaway risk."
+  },
+  {
+    "slug": "roadie",
+    "name": "Roadie",
+    "url": "https://roadie.io",
+    "description": "Roadie unifies your services, documentation, and tribal knowledge into a single source of truth—powering AI tools with the structured context they need to ship code, not hallucinate."
+  },
+  {
+    "slug": "spacelift",
+    "name": "Spacelift",
+    "url": "https://spacelift.io",
+    "description": "Spacelift helps orchestrate your entire infrastructure pipeline (Terraform, OpenTofu, Ansible and more) to deliver secure, cost-effective, and high-performance infrastructure."
+  },
+  {
+    "slug": "env0",
+    "name": "env0",
+    "url": "https://envzero.com",
+    "description": "env zero delivers the autonomous cloud control plane for the AI era."
+  },
+  {
+    "slug": "scalr",
+    "name": "Scalr",
+    "url": "https://scalr.com",
+    "description": "Scalr is a cost effective, drop-in replacement for Terraform Cloud, with feature parity and better GitOps support."
+  },
+  {
+    "slug": "gruntwork",
+    "name": "Gruntwork",
+    "url": "https://gruntwork.io",
+    "description": "Accelerate your infrastructure deployment on AWS, GCP, and Azure and create world-class, end-to-end DevOps workflows using Gruntwork's DevOps tools and battle-tested IaC modules."
+  },
+  {
+    "slug": "pulumi",
+    "name": "Pulumi",
+    "url": "https://pulumi.com",
+    "description": "Pulumi is an open-source infrastructure as code platform that helps humans and agents build and manage cloud infrastructure with real programming languages."
+  },
+  {
+    "slug": "hashicorp",
+    "name": "HashiCorp",
+    "url": "https://hashicorp.com",
+    "description": "Infrastructure automation tools for provisioning, security, networking, and application delivery."
+  },
+  {
+    "slug": "akuity",
+    "name": "Akuity",
+    "url": "https://akuity.io",
+    "description": "Deploy with Argo CD, promote seamlessly with Kargo, get advanced visibility with AI dashboards, and use AI agents for safe remediation."
+  },
+  {
+    "slug": "octopus-deploy",
+    "name": "Octopus Deploy",
+    "url": "https://octopus.com",
+    "description": "Deploy software to multi-cloud, hybrid, and on-premises environments with Octopus Deploy, the continuous deployment software. Save 2000 hours per rollout, ensure reliable deployments, and automate routine tasks."
+  },
+  {
+    "slug": "harness",
+    "name": "Harness",
+    "url": "https://harness.io",
+    "description": "Harness is a unified, end-to-end AI software delivery platform to manage the SDLC using purpose-built AI agents."
+  },
+  {
+    "slug": "circleci",
+    "name": "CircleCI",
+    "url": "https://circleci.com",
+    "description": "Deliver production-ready software at AI speed. CircleCI helps modern teams validate, test, and ship every change with intelligent automation."
+  },
+  {
+    "slug": "buildkite",
+    "name": "Buildkite",
+    "url": "https://buildkite.com",
+    "description": "The fastest CI for AI workflows at scale nothing else survives. Leading software teams across industries have standardized on Buildkite for CI and orchestration."
+  },
+  {
+    "slug": "semaphore",
+    "name": "Semaphore",
+    "url": "https://semaphore.io",
+    "description": "Semaphore CI built for coding agents - fast, affordable, and enterprise-ready."
+  },
+  {
+    "slug": "travis-ci",
+    "name": "Travis CI",
+    "url": "https://travis-ci.com",
+    "description": "Travis CI is the most simple and flexible ci/cd tool available today. Find out how Travis CI can help with continuous integration and continuous delivery."
+  },
+  {
+    "slug": "drone",
+    "name": "Drone",
+    "url": "https://drone.io",
+    "description": "Drone is a self-service Continuous Delivery platform for busy development teams"
+  },
+  {
+    "slug": "dagger",
+    "name": "Dagger",
+    "url": "https://dagger.io",
+    "description": "Build powerful software environments and containerized operations from modular components and simple functions. Perfect for complex software delivery and AI agents. Built by the creators of Docker."
+  },
+  {
+    "slug": "earthly",
+    "name": "Earthly",
+    "url": "https://earthly.dev",
+    "description": "Turn your AGENTS.md, engineering standards, and process docs into deterministic enforcement in AI authoring loops and on PRs — in minutes, not quarters."
+  },
+  {
+    "slug": "blacksmith",
+    "name": "Blacksmith",
+    "url": "https://blacksmith.sh",
+    "description": "Speed up your GitHub actions with Blacksmith. Run CI/CD 2x faster, download caches 4x faster, build Docker images 40x faster, and eliminate queue times. Start free today."
+  },
+  {
+    "slug": "namespace",
+    "name": "Namespace",
+    "url": "https://namespace.so",
+    "description": "Namespace accelerates the development workflow of fast-moving software engineering teams. Best-in-class compute and development-supporting services that lead to 2x-10x faster builds, tests, and more."
+  },
+  {
+    "slug": "warpbuild",
+    "name": "WarpBuild",
+    "url": "https://warpbuild.com",
+    "description": "WarpBuild is a drop in replacement for Github runners that are 2x faster and 50% cheaper. Get light speed builds and light weight bills in 30 seconds."
+  },
+  {
+    "slug": "coder",
+    "name": "Coder",
+    "url": "https://coder.com",
+    "description": "Give developers a secure, governed environment to run AI coding agents at scale. Self-hosted infrastructure with full control over agent permissions, audit logging, and compliance."
+  },
+  {
+    "slug": "gitpod",
+    "name": "Gitpod",
+    "url": "https://gitpod.io",
+    "description": "Cloud development environments for creating reproducible, remote developer workspaces."
+  },
+  {
+    "slug": "devzero",
+    "name": "DevZero",
+    "url": "https://devzero.io",
+    "description": "Autonomously optimize Kubernetes and AI. DevZero profiles, schedules, and rightsizes workloads with zero restarts, reducing cloud costs while maintaining performance and reliability."
+  },
+  {
+    "slug": "terrateam",
+    "name": "Terrateam",
+    "url": "https://terrateam.io",
+    "description": "Terrateam helps teams automate infrastructure with secure, GitOps-native workflows. Built for Terraform, OpenTofu, and more."
+  },
+  {
+    "slug": "runme",
+    "name": "RUNME",
+    "url": "https://runme.dev",
+    "description": "Runme turns your documentation into interactive notebooks for operating cloud infrastructure."
+  },
+  {
+    "slug": "reflag",
+    "name": "Reflag",
+    "url": "https://reflag.com",
+    "description": "TypeScript feature management platform for feature flags, rollouts, and product experiments."
+  },
+  {
+    "slug": "mongodb",
+    "name": "MongoDB",
+    "url": "https://mongodb.com",
+    "description": "Get your ideas to market faster with a flexible, AI-ready database. MongoDB makes working with data easy."
+  },
+  {
+    "slug": "cockroach-labs",
+    "name": "Cockroach Labs",
+    "url": "https://cockroachlabs.com",
+    "description": "CockroachDB is a cloud-agnostic, AI-native, PostgreSQL-compatible data platform built for modern applications, used by industry-leading innovators worldwide to deliver unmatched uptime, scale, and compliance."
+  },
+  {
+    "slug": "singlestore",
+    "name": "SingleStore",
+    "url": "https://singlestore.com",
+    "description": "SingleStore is the real-time database for AI, apps and analytics. Build intelligent experiences with live reads and writes, one engine for transactions and analytics, and open data access."
+  },
+  {
+    "slug": "yugabyte",
+    "name": "YugabyteDB",
+    "url": "https://yugabyte.com",
+    "description": "YugabyteDB is the AI-ready, multi-modal, distributed PostgreSQL database for cloud native applications. Resilient, scalable, and flexible."
+  },
+  {
+    "slug": "xata",
+    "name": "Xata",
+    "url": "https://xata.io",
+    "description": "Managed Postgres platform with database branching and scale-to-zero compute."
+  },
+  {
+    "slug": "convex",
+    "name": "Convex",
+    "url": "https://convex.dev",
+    "description": "All gas, no breakages. Convex is the reactive backend platform that keeps up with you and your agents."
+  },
+  {
+    "slug": "gel",
+    "name": "Gel",
+    "url": "https://geldata.com",
+    "description": "Gel is an open-source database designed to address ergonomic limitations of SQL and relational modeling, without sacrificing type safety or performance."
+  },
+  {
+    "slug": "surrealdb",
+    "name": "SurrealDB",
+    "url": "https://surrealdb.com",
+    "description": "SurrealDB is a database and an agent memory layer. Documents, graphs, vectors, and SQL in one engine - and context for your AI agents wherever your data lives."
+  },
+  {
+    "slug": "tiger-data",
+    "name": "Tiger Data",
+    "url": "https://tigerdata.com",
+    "description": "From the creators of TimescaleDB — the PostgreSQL platform trusted by enterprises processing trillions of metrics daily. Start a free trial or get a demo."
+  },
+  {
+    "slug": "questdb",
+    "name": "QuestDB",
+    "url": "https://questdb.com",
+    "description": "QuestDB is the open-source time-series database for demanding workloads: ultra-low latency, high throughput, tiered storage, and fast SQL on open formats."
+  },
+  {
+    "slug": "clickhouse",
+    "name": "ClickHouse",
+    "url": "https://clickhouse.com",
+    "description": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries"
+  },
+  {
+    "slug": "tinybird",
+    "name": "Tinybird",
+    "url": "https://tinybird.co",
+    "description": "The data infrastructure and tooling to ship enterprise grade analytical features faster and at a fraction of the cost"
+  },
+  {
+    "slug": "motherduck",
+    "name": "MotherDuck",
+    "url": "https://motherduck.com",
+    "description": "The modern cloud data warehouse powered by DuckDB. Serverless SQL analytics with no infrastructure to manage—query your data in seconds. Start free."
+  },
+  {
+    "slug": "materialize",
+    "name": "Materialize",
+    "url": "https://materialize.com",
+    "description": "Materialize is the live context layer for agents and apps. It lets engineering teams use SQL to transform siloed operational data into real-time data products they can trust."
+  },
+  {
+    "slug": "risingwave",
+    "name": "RisingWave",
+    "url": "https://risingwave.com",
+    "description": "Open-source streaming database for real-time analytics, AI agents, and event-driven apps. Process events with SQL, sub-second freshness, exactly-once guarantees."
+  },
+  {
+    "slug": "estuary",
+    "name": "Estuary",
+    "url": "https://estuary.dev",
+    "description": "Estuary (formerly Estuary Flow) is the right-time data platform that unifies CDC, streaming, batch and ETL pipelines into one dependable system for AI, analytics and operations."
+  },
+  {
+    "slug": "airbyte",
+    "name": "Airbyte",
+    "url": "https://airbyte.com",
+    "description": "Airbyte is the open-source data integration platform: ELT pipelines into any warehouse, a context layer for AI agents, and 600+ connectors behind both."
+  },
+  {
+    "slug": "fivetran",
+    "name": "Fivetran",
+    "url": "https://fivetran.com",
+    "description": "Effortlessly centralize all the data you need so your team can deliver better insights, faster. Start for free."
+  },
+  {
+    "slug": "dagster",
+    "name": "Dagster",
+    "url": "https://dagster.io",
+    "description": "Dagster is the data orchestrator platform that helps you build, schedule, and monitor reliable data pipelines - fast, flexible, and built for teams."
+  },
+  {
+    "slug": "prefect",
+    "name": "Prefect",
+    "url": "https://prefect.io",
+    "description": "Orchestrate workflows with Prefect. Connect AI agents to your tools and data with Horizon. Open-source foundations, production-ready platforms."
+  },
+  {
+    "slug": "kestra",
+    "name": "Kestra",
+    "url": "https://kestra.io",
+    "description": "Use declarative language to build simpler, faster, scalable and flexible workflows"
+  },
+  {
+    "slug": "mage",
+    "name": "Mage",
+    "url": "https://mage.ai",
+    "description": "Mage turns intent into production data and AI workflows. Build, run, validate, repair, and deliver trusted data across analytics, automation, and agents."
+  },
+  {
+    "slug": "dlt-hub",
+    "name": "dltHub",
+    "url": "https://dlthub.com",
+    "description": "dlt is the open-source Python library 50,000s of developers use to build data pipelines. dltHub is the agentic platform that deploys, monitors, and scales them."
+  },
+  {
+    "slug": "datafold",
+    "name": "Datafold",
+    "url": "https://datafold.com",
+    "description": "Datafold is the data engineering automation platform. AI-powered migrations delivered in weeks with guaranteed outcomes, plus data quality tools for CI/CD testing, monitoring, and AI agent integrations via MCP."
+  },
+  {
+    "slug": "monte-carlo",
+    "name": "Monte Carlo",
+    "url": "https://montecarlo.ai",
+    "description": "Monte Carlo is the agent trust platform — unifying data, AI, and agent observability so enterprise teams can trust the AI they run in production."
+  },
+  {
+    "slug": "bigeye",
+    "name": "Bigeye",
+    "url": "https://bigeye.com",
+    "description": "Bigeye is the data and AI trust platform for large enterprises. Only Bigeye combines comprehensive data observability, end-to-end lineage, and agentic AI governance."
+  },
+  {
+    "slug": "soda",
+    "name": "Soda",
+    "url": "https://soda.io",
+    "description": "The AI-native, fully automated data quality platform. Find, understand and fix data quality issues in seconds with Soda. From table to record-level."
+  },
+  {
+    "slug": "metaplane",
+    "name": "Metaplane",
+    "url": "https://metaplane.dev",
+    "description": "Metaplane is a data observability platform that helps data teams know when things break, what went wrong, and how to fix it."
+  },
+  {
+    "slug": "dbt-labs",
+    "name": "dbt Labs",
+    "url": "https://getdbt.com",
+    "description": "dbt Labs empowers data teams to build reliable, governed data pipelines—accelerating analytics and AI initiatives with speed and confidence."
+  },
+  {
+    "slug": "cube",
+    "name": "Cube",
+    "url": "https://cube.dev",
+    "description": "Cube is the agentic analytics platform, built on a semantic layer — AI-native business intelligence and embedded analytics with answers your team and your customers can trust."
+  },
+  {
+    "slug": "evidence",
+    "name": "Evidence",
+    "url": "https://evidence.dev",
+    "description": "Evidence is an open source, code-based alternative to drag-and-drop BI tools. Build polished data products with just SQL and markdown."
+  },
+  {
+    "slug": "preset",
+    "name": "Preset",
+    "url": "https://preset.io",
+    "description": "AI-native business intelligence built on Apache Superset™. Dashboards, embedded analytics, self-service exploration, and conversational AI — all open source, enterprise-grade, and built for the AI era."
+  },
+  {
+    "slug": "metabase",
+    "name": "Metabase",
+    "url": "https://metabase.com",
+    "description": "Metabase grounds every answer in your semantic layer — your metrics and business logic — so you can inspect the query behind it."
+  },
+  {
+    "slug": "dremio",
+    "name": "Dremio",
+    "url": "https://dremio.com",
+    "description": "Open, high-performance data lakehouse platform built to accelerate AI and analytical workloads across all enterprise data."
+  },
+  {
+    "slug": "starburst",
+    "name": "Starburst",
+    "url": "https://starburst.io",
+    "description": "Starburst delivers enterprise intelligence with federated access to all your data, powering AI, faster insights, and trusted decisions at scale."
+  },
+  {
+    "slug": "onehouse",
+    "name": "Onehouse",
+    "url": "https://onehouse.ai",
+    "description": "The data lakehouse for open storage, continuous pipelines, and automatic optimizations across table formats, engines, clouds. Automated data platform across Hudi, Delta, and Iceberg."
+  },
+  {
+    "slug": "upsolver",
+    "name": "Upsolver",
+    "url": "https://upsolver.com",
+    "description": "Streaming data pipeline platform for ingesting and transforming event data; now part of Qlik."
+  },
+  {
+    "slug": "redpanda",
+    "name": "Redpanda",
+    "url": "https://redpanda.com",
+    "description": "Redpanda powers an Agentic Data Plane and Data Streaming platform for real-time performance, AI innovation, and simplified operations."
+  },
+  {
+    "slug": "aiven",
+    "name": "Aiven",
+    "url": "https://aiven.io",
+    "description": "Aiven is an AI-ready open source data platform that combines open-source services to rapidly stream, store and serve data across major cloud providers — simply and securely."
+  },
+  {
+    "slug": "confluent",
+    "name": "Confluent",
+    "url": "https://confluent.io",
+    "description": "Stream, connect, process, and govern your data with a unified Data Streaming Platform built on the heritage of Apache Kafka® and Apache Flink®."
+  },
+  {
+    "slug": "upstash",
+    "name": "Upstash",
+    "url": "https://upstash.com",
+    "description": "Serverless Redis, Vector and Search databases with low latency and pay-as-you-go pricing. Upstash is the data platform for modern and AI applications — create a Redis database in seconds."
+  },
+  {
+    "slug": "dragonfly",
+    "name": "Dragonfly",
+    "url": "https://dragonflydb.io",
+    "description": "Discover Dragonfly - the most performant in-memory data store, engineered for extreme throughput at scale."
+  },
+  {
+    "slug": "redis",
+    "name": "Redis",
+    "url": "https://redis.io",
+    "description": "Developers love Redis. Unlock the full potential of the Redis database with Redis Enterprise and start building blazing fast apps."
+  },
+  {
+    "slug": "pinecone",
+    "name": "Pinecone",
+    "url": "https://pinecone.io",
+    "description": "Search through billions of items for similar matches to any object, in milliseconds. It’s the next generation of search, an API call away."
+  },
+  {
+    "slug": "weaviate",
+    "name": "Weaviate",
+    "url": "https://weaviate.io",
+    "description": "Bring AI-native applications to life with less hallucination, data leakage, and vendor lock-in"
+  },
+  {
+    "slug": "qdrant",
+    "name": "Qdrant",
+    "url": "https://qdrant.tech",
+    "description": "Qdrant is an Open-Source Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API."
+  },
+  {
+    "slug": "zilliz",
+    "name": "Zilliz",
+    "url": "https://zilliz.com",
+    "description": "Zilliz offers a fully managed Vector Lakebase powered by Milvus, unifying real-time vector search, lake-scale discovery, and AI data operations. Available across AWS, Google Cloud, and Azure regions worldwide."
+  },
+  {
+    "slug": "chroma",
+    "name": "Chroma",
+    "url": "https://trychroma.com",
+    "description": "Open-source search and retrieval infrastructure for AI applications."
+  },
+  {
+    "slug": "lancedb",
+    "name": "LanceDB",
+    "url": "https://lancedb.com",
+    "description": "The multimodal lakehouse for AI, accelerating large-scale data curation and feature engineering so teams can build better models faster."
+  },
+  {
+    "slug": "turbopuffer",
+    "name": "Turbopuffer",
+    "url": "https://turbopuffer.com",
+    "description": "vector and full-text search built on object storage: fast, 10x cheaper, and extremely scalable"
+  },
+  {
+    "slug": "pingcap",
+    "name": "PingCAP",
+    "url": "https://pingcap.com",
+    "description": "TiDB is the distributed SQL database built for AI agents. Vectors, transactions, and analytics in one engine with ACID guarantees and elastic scale."
+  },
+  {
+    "slug": "scylladb",
+    "name": "ScyllaDB",
+    "url": "https://scylladb.com",
+    "description": "Get unbreakable low-latency, high-throughput performance for massive AI workloads — from million-OPS feature stores to billion-scale vector search."
+  },
+  {
+    "slug": "influxdata",
+    "name": "InfluxData",
+    "url": "https://influxdata.com",
+    "description": "Developer of InfluxDB, a database platform for time-series and event data."
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "url": "https://datadoghq.com",
+    "description": "Monitoring, observability, and security platform for applications and infrastructure."
+  },
+  {
+    "slug": "new-relic",
+    "name": "New Relic",
+    "url": "https://newrelic.com",
+    "description": "New Relic is an AI-powered observability platform that correlates your telemetry across your entire stack, so you can isolate the root cause and reduce MTTR."
+  },
+  {
+    "slug": "grafana-labs",
+    "name": "Grafana Labs",
+    "url": "https://grafana.com",
+    "description": "Avoid lock-in and ensure reliability with Grafana Cloud. The AI-powered platform built on open standards unifies metrics, logs, traces, profiles, and business data."
+  },
+  {
+    "slug": "chronosphere",
+    "name": "Chronosphere",
+    "url": "https://chronosphere.io",
+    "description": "Find and fix customer-impacting issues faster and stop paying for data you don’t use. Chronosphere is the world’s most reliable observability platform for microservices and containers."
+  },
+  {
+    "slug": "coralogix",
+    "name": "Coralogix",
+    "url": "https://coralogix.com",
+    "description": "Ingest all your data, store it indefinitely on your cloud, and query with a unified syntax. A platform built for scale and efficiency."
+  },
+  {
+    "slug": "better-stack",
+    "name": "Better Stack",
+    "url": "https://betterstack.com",
+    "description": "AI SRE and MCP server, incident management, on-call, logs, metrics, traces, and error tracking. 7,000+ happy customers. 60-day money back guarantee."
+  },
+  {
+    "slug": "axiom",
+    "name": "Axiom",
+    "url": "https://axiom.co",
+    "description": "The modern machine data platform — Petabyte-scale, schema-less ingest on a fully managed event store, so you keep every byte without the operational cost of running it yourself."
+  },
+  {
+    "slug": "openobserve",
+    "name": "OpenObserve",
+    "url": "https://openobserve.ai",
+    "description": "High-performance, unified observability for the AI era. 140x lower storage cost."
+  },
+  {
+    "slug": "hyperdx",
+    "name": "HyperDX",
+    "url": "https://hyperdx.io",
+    "description": "Open-source observability platform for logs, metrics, traces, errors, and session replay."
+  },
+  {
+    "slug": "last9",
+    "name": "Last9",
+    "url": "https://last9.io",
+    "description": "Unified observability for the whole team — developers, SREs, and AI agents. Full visibility. No cost explosion. Single view for metrics, logs, traces, and APM."
+  },
+  {
+    "slug": "middleware",
+    "name": "Middleware",
+    "url": "https://middleware.io",
+    "description": "Middleware offers full-stack observability with real-time monitoring and diagnostics, helping teams detect issues at scale while keeping data secure."
+  },
+  {
+    "slug": "groundcover",
+    "name": "groundcover",
+    "url": "https://groundcover.com",
+    "description": "Monitor everything you run in the cloud, without compromising on data, control, or cost. Deployed in your cloud. Built for your agents."
+  },
+  {
+    "slug": "dash0",
+    "name": "Dash0",
+    "url": "https://dash0.com",
+    "description": "Dash0 is modern OpenTelemetry Native Observability, built on CNCF Open Standards such as PromQL, Perses and OTLP with full cost control"
+  },
+  {
+    "slug": "logz-io",
+    "name": "Logz.io",
+    "url": "https://logz.io",
+    "description": "Stop chasing alerts. Logz.io's AI-powered observability platform unifies logs, metrics, and traces to cut MTTR, automate root cause analysis, and get ahead of issues before they impact users."
+  },
+  {
+    "slug": "mezmo",
+    "name": "Mezmo",
+    "url": "https://mezmo.com",
+    "description": "Mezmo runs agentic SRE on your own infrastructure: AURA is an open-source agent harness, and Mezmo's telemetry pipelines feed it in-stream operational context."
+  },
+  {
+    "slug": "cribl",
+    "name": "Cribl",
+    "url": "https://cribl.io",
+    "description": "Cribl is built for IT and Security data and provides a unified data management platform for exploring, collecting, processing, and accessing that data at scale."
+  },
+  {
+    "slug": "rollbar",
+    "name": "Rollbar",
+    "url": "https://rollbar.com",
+    "description": "Real-time error monitoring and tracking for software teams. Rollbar connects errors, session replays, and releases in one place. Free plan available."
+  },
+  {
+    "slug": "bugsnag",
+    "name": "Bugsnag",
+    "url": "https://bugsnag.com",
+    "description": "Unlock performance & error monitoring for your application with BugSnag. Monitor, analyze, and optimize in real time to ensure a seamless user experience."
+  },
+  {
+    "slug": "raygun",
+    "name": "Raygun",
+    "url": "https://raygun.com",
+    "description": "Raygun gives you a window into how users are really experiencing your software applications. Detect, diagnose and resolve issues that are affecting end users."
+  },
+  {
+    "slug": "airbrake",
+    "name": "Airbrake",
+    "url": "https://airbrake.io",
+    "description": "Error monitoring and application performance management for software teams."
+  },
+  {
+    "slug": "embrace",
+    "name": "Embrace",
+    "url": "https://embrace.io",
+    "description": "Embrace offers real user monitoring (RUM) for mobile and web, helping engineering teams quickly identify issues, boost app performance, and improve user experience with full visibility and context."
+  },
+  {
+    "slug": "rootly",
+    "name": "Rootly",
+    "url": "https://rootly.com",
+    "description": "The all-in-one AI incident management platform for fast-moving engineering teams to detect, manage, resolve, and learn from incidents faster."
+  },
+  {
+    "slug": "firehydrant",
+    "name": "FireHydrant",
+    "url": "https://firehydrant.com",
+    "description": "All-in-one incident management software for modern teams. FireHydrant helps you plan, respond, and resolve faster with smart alerting, on-call scheduling, AI-powered workflows, and post-incident retros."
+  },
+  {
+    "slug": "statuspage",
+    "name": "Statuspage",
+    "url": "https://atlassian.com/software/statuspage",
+    "description": "Keep users informed during incidents with Statuspage. Share real-time status updates, reduce support tickets, and build trust through transparency."
+  },
+  {
+    "slug": "instatus",
+    "name": "Instatus",
+    "url": "https://instatus.com",
+    "description": "Monitor your services, fix incidents with your team, and share your status with customers. Beautiful, fast status pages in seconds."
+  },
+  {
+    "slug": "hyperping",
+    "name": "Hyperping",
+    "url": "https://hyperping.com",
+    "description": "Monitor websites and APIs from 19 locations with 30-second checks. Built-in status pages, on-call scheduling, and zero false positives. Start free in 5 minutes."
+  },
+  {
+    "slug": "oneuptime",
+    "name": "OneUptime",
+    "url": "https://oneuptime.com",
+    "description": "Detect outages in seconds, page the right engineer, update your status page, and ship the fix — open-source observability and incident management."
+  },
+  {
+    "slug": "openstatus",
+    "name": "OpenStatus",
+    "url": "https://openstatus.dev",
+    "description": "Ship your status page before your SOC 2 auditor asks for it. Communicate incidents, prove compliance readiness, and monitor uptime from 28 global regions. Open source and free to start."
+  },
+  {
+    "slug": "checkly",
+    "name": "Checkly",
+    "url": "https://checklyhq.com",
+    "description": "The only monitoring platform built from the ground up to be operated by developers and agents to give teams a clear signal of application health."
+  },
+  {
+    "slug": "uptimerobot",
+    "name": "UptimeRobot",
+    "url": "https://uptimerobot.com",
+    "description": "Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE!"
+  },
+  {
+    "slug": "eppo",
+    "name": "Eppo",
+    "url": "https://eppo.cloud",
+    "description": "Feature management and experimentation platform for flags, A/B tests, and product measurement."
+  },
+  {
+    "slug": "launchdarkly",
+    "name": "LaunchDarkly",
+    "url": "https://launchdarkly.com",
+    "description": "LaunchDarkly helps teams safely manage code and AI agents in production with feature flags, progressive delivery, automated rollback, and runtime control."
+  },
+  {
+    "slug": "statsig",
+    "name": "Statsig",
+    "url": "https://statsig.com",
+    "description": "Statsig is your modern product development platform, with an integrated toolkit for experimentation, feature management, product analytics, session replays, and much more."
+  },
+  {
+    "slug": "growthbook",
+    "name": "GrowthBook",
+    "url": "https://growthbook.io",
+    "description": "The 1st warehouse-native platform for experimentation, feature flags, and product analytics. Open source and fully transparent. Trusted by 3,000+ companies."
+  },
+  {
+    "slug": "devcycle",
+    "name": "DevCycle",
+    "url": "https://devcycle.com",
+    "description": "DevCycle is the first and only OpenFeature-native feature flag management platform. Built by OpenFeature governance board members. Deploy faster, reduce risk, and avoid vendor lock-in with the best OpenFeature provider."
+  },
+  {
+    "slug": "configcat",
+    "name": "ConfigCat",
+    "url": "https://configcat.com",
+    "description": "ConfigCat is a feature flag service with unlimited seats, awesome support, and a reasonable price tag."
+  },
+  {
+    "slug": "unleash",
+    "name": "Unleash",
+    "url": "https://getunleash.io",
+    "description": "Unleash is the FeatureOps Control Plane built for enterprises. Open source, private, and secure. Move fast, stay safe, and keep shipping."
+  },
+  {
+    "slug": "auth0",
+    "name": "Auth0",
+    "url": "https://auth0.com",
+    "description": "Secure users, AI agents, and more with Auth0, an easy-to-implement, scalable, and adaptable authentication and authorization platform."
+  },
+  {
+    "slug": "stytch",
+    "name": "Stytch",
+    "url": "https://stytch.com",
+    "description": "APIs and SDKs for adding authentication, identity, and fraud prevention to applications."
+  },
+  {
+    "slug": "descope",
+    "name": "Descope",
+    "url": "https://descope.com",
+    "description": "Build secure, frictionless identity journeys for your users, business customers, partners, AI agents, and MCP servers with the Descope External IAM Platform."
+  },
+  {
+    "slug": "fusionauth",
+    "name": "FusionAuth",
+    "url": "https://fusionauth.io",
+    "description": "FusionAuth provides complete auth software and user management solutions, with customizable tools like SSO, MFA, and integrations for OAuth2 and OpenID Connect."
+  },
+  {
+    "slug": "ory",
+    "name": "Ory",
+    "url": "https://ory.com",
+    "description": "Add customer identity, OAuth, permissions, B2B SSO, or agent security with Ory best practices built in. One command spins up a local stack in seconds."
+  },
+  {
+    "slug": "authzed",
+    "name": "AuthZed",
+    "url": "https://authzed.com",
+    "description": "Remove authorization bottlenecks, empower your team to innovate and expand with best-in-class performance at any scale."
+  },
+  {
+    "slug": "permit-io",
+    "name": "Permit.io",
+    "url": "https://permit.io",
+    "description": "Control what AI agents can do — at action time, across every system they touch. The control plane for agentic identity and fine-grained authorization."
+  },
+  {
+    "slug": "aserto",
+    "name": "Aserto",
+    "url": "https://aserto.com",
+    "description": "Aserto provides cloud-native authorization as a service for developers. Add fine-grained RBAC, ABAC, or ACL to your application in under a day."
+  },
+  {
+    "slug": "cerbos",
+    "name": "Cerbos",
+    "url": "https://cerbos.dev",
+    "description": "End-to-end access control for Zero Trust environments and AI systems. Enforce fine grained contextual authorization in every layer of the software you build"
+  },
+  {
+    "slug": "propelauth",
+    "name": "PropelAuth",
+    "url": "https://propelauth.com",
+    "description": "PropelAuth was founded on the idea that a great auth product gets out of your way. We provide you with the right tools out of the box—so you can quickly make your users&apos; experiences as secure and smooth as possible."
+  },
+  {
+    "slug": "kinde",
+    "name": "Kinde",
+    "url": "https://kinde.com",
+    "description": "Kinde is the all-in-one developer platform for authentication, access management and billing - secure and monetize your SaaS from day one."
+  },
+  {
+    "slug": "supertokens",
+    "name": "SuperTokens",
+    "url": "https://supertokens.com",
+    "description": "Open Source User Authentication. Build fast, maintain control, with reasonable pricing."
+  },
+  {
+    "slug": "logto",
+    "name": "Logto",
+    "url": "https://logto.io",
+    "description": "Logto adds multi-tenancy, enterprise SSO, and RBAC to your SaaS or AI apps. All with OIDC and OAuth 2.1 made simple, fast, and developer-friendly."
+  },
+  {
+    "slug": "frontegg",
+    "name": "Frontegg",
+    "url": "https://frontegg.com",
+    "description": "Secure every entry point with Frontegg, the first identity layer for agentic SaaS. Protect APIs and scale with enterprise-grade CIAM."
+  },
+  {
+    "slug": "corbado",
+    "name": "Corbado",
+    "url": "https://corbado.com",
+    "description": "See what's breaking logins across every authentication method and scale passkeys across millions of users without replacing your IDP."
+  },
+  {
+    "slug": "scalekit",
+    "name": "Scalekit",
+    "url": "https://scalekit.com",
+    "description": "Authentication and authorization for agents. One stack: delegated identity, tool calling, scoped permissions, and audit. Everything your agent needs."
+  },
+  {
+    "slug": "hexclave",
+    "name": "HexClav",
+    "url": "https://hexclave.com",
+    "description": "Hexclave is the open-source platform for everything user. Modular building blocks — auth, payments, emails, analytics — that fit around your product."
+  },
+  {
+    "slug": "snyk",
+    "name": "Snyk",
+    "url": "https://snyk.io",
+    "description": "Snyk is the AI Security Fabric — the independent validator that makes AI-generated code, AI agents, and AI-native applications trustworthy. Unleash AI innovation securely."
+  },
+  {
+    "slug": "semgrep",
+    "name": "Semgrep",
+    "url": "https://semgrep.dev",
+    "description": "An extensible developer-friendly application security platform that scans source code to surface true and actionable security issues with AI-assisted SAST, SCA, and Secrets Detection solutions."
+  },
+  {
+    "slug": "socket",
+    "name": "Socket",
+    "url": "https://socket.dev",
+    "description": "Socket fights vulnerabilities and provides visibility, defense-in-depth, and proactive supply chain protection for JavaScript, Python, and Go dependen..."
+  },
+  {
+    "slug": "endor-labs",
+    "name": "Endor Labs",
+    "url": "https://endorlabs.com",
+    "description": "Endor Labs is an application security platform built for AI-generated and human-written code, helping teams prioritize and fix real risk across the SDLC."
+  },
+  {
+    "slug": "chainguard",
+    "name": "Chainguard",
+    "url": "https://chainguard.dev",
+    "description": "Chainguard provides trusted open source artifacts for every layer of your modern software stack—containers, language libraries, and VM images."
+  },
+  {
+    "slug": "aikido",
+    "name": "Aikido",
+    "url": "https://aikido.dev",
+    "description": "Detect, pentest, and block security threats across your entire stack - from one unified platform."
+  },
+  {
+    "slug": "jit",
+    "name": "Jit",
+    "url": "https://jit.io",
+    "description": "Jit turns product security into execution: context-aware AI agents, approvals, and integrations that move work from detection to remediation—inside dev workflows."
+  },
+  {
+    "slug": "arnica",
+    "name": "Arnica",
+    "url": "https://arnica.io",
+    "description": "Enhance your application security with Arnica's automated tools. Secure your code, streamline development processes, and ensure compliance with ease."
+  },
+  {
+    "slug": "legit-security",
+    "name": "Legit Security",
+    "url": "https://legitsecurity.com",
+    "description": "Legit Security is the AI-native ASPM platform to detect, fix and prevent AppSec risk from AI-generated code, secrets, and critical vulnerabilities."
+  },
+  {
+    "slug": "apiiro",
+    "name": "Apiiro",
+    "url": "https://apiiro.com",
+    "description": "Secure everything coding agents build, use, and ship - prevent risk before code exists, AutoFix the backlog, and protect the coding agents and supply chain."
+  },
+  {
+    "slug": "ox-security",
+    "name": "OX Security",
+    "url": "https://ox.security",
+    "description": "Accelerate the transition to software that secures itself. OX Security pinpoints risk to the exact line of code, eliminating security debt from AI generation to cloud runtime."
+  },
+  {
+    "slug": "cycode",
+    "name": "Cycode",
+    "url": "https://cycode.com",
+    "description": "Cycode’s Agentic Development Security Platform unites security and development teams with actionable, code-to-runtime context to identify, prioritize, and fix the software risk that matters."
+  },
+  {
+    "slug": "oligo",
+    "name": "Oligo",
+    "url": "https://oligo.security",
+    "description": "Oligo Security is a runtime security platform that helps organizations detect, investigate, and block AI threats across cloud, code, and AI agents in real time."
+  },
+  {
+    "slug": "pynt",
+    "name": "Pynt",
+    "url": "https://pynt.io",
+    "description": "Pynt offers dynamic API security testing for developers and testers to identify and fix vulnerabilities during the development lifecycle."
+  },
+  {
+    "slug": "akto",
+    "name": "Akto",
+    "url": "https://akto.io",
+    "description": "Akto provides real-time MCP and AI agent discovery, AI agent security testing, red teaming, agentic posture management, and guardrails. Recognized by Gartner™ as a representative AI agent security platform."
+  },
+  {
+    "slug": "traceable",
+    "name": "Traceable",
+    "url": "https://traceable.ai",
+    "description": "Traceable's Application and API security discovers all Application and APIs, evaluates Application and API risk posture, stops attacks that lead to data exfiltration and provides analytics for threat hunting."
+  },
+  {
+    "slug": "salt-security",
+    "name": "Salt Security",
+    "url": "https://salt.security",
+    "description": "Salt Security is the only holistic AI security solution for the entire agentic AI lifecycle, from API discovery to posture management to threat protection."
+  },
+  {
+    "slug": "doppler",
+    "name": "Doppler",
+    "url": "https://doppler.com",
+    "description": "Doppler's secrets management platform helps teams secure, sync, and automate secrets across cloud and on-prem environments with security and developer-friendly workflows."
+  },
+  {
+    "slug": "akeyless",
+    "name": "Akeyless",
+    "url": "https://akeyless.io",
+    "description": "Akeyless secures machines, AI agents, and humans through one cloud-native platform built on zero-knowledge cryptography."
+  },
+  {
+    "slug": "gitguardian",
+    "name": "GitGuardian",
+    "url": "https://gitguardian.com",
+    "description": "Secure your SDLC and Non-Human Identities (NHIs) with GitGuardian 🔐 — detect secrets in code, repos, and tools. Available as SaaS or Self-Hosted."
+  },
+  {
+    "slug": "truffle-security",
+    "name": "Truffle Security",
+    "url": "https://trufflesecurity.com",
+    "description": "Truffle Security protects your company from credentials leaks with TruffleHog™ Enterprise. Scan Git repos in real-time. Detect Live API Keys across SaaS, code and cloud. Remediate your secrets and NHIs."
+  },
+  {
+    "slug": "bearer",
+    "name": "Bearer",
+    "url": "https://bearer.com",
+    "description": "Identify and remediate code security and privacy risks in your DevSecOps workflows."
+  },
+  {
+    "slug": "tailscale",
+    "name": "Tailscale",
+    "url": "https://tailscale.com",
+    "description": "The connectivity platform for devs, IT, and security teams. Zero Trust identity-based access that deploys in minutes and scales to every resource. Start free."
+  },
+  {
+    "slug": "teleport",
+    "name": "Teleport",
+    "url": "https://goteleport.com",
+    "description": "Teleport unifies human, machine, and AI identities with strong identity implementation to speed up engineering, improve resiliency, and secure AI in production."
+  },
+  {
+    "slug": "strongdm",
+    "name": "StrongDM",
+    "url": "https://strongdm.com",
+    "description": "Secure and simplify infrastructure access with StrongDM’s Zero Trust PAM platform. Control, audit, and manage access across cloud, databases, servers, and apps from a single, unified solution."
+  },
+  {
+    "slug": "netbird",
+    "name": "NetBird",
+    "url": "https://netbird.io",
+    "description": "WireGuard®-based overlay network and Zero Trust Network Access in one platform for reliable and secure connectivity"
+  },
+  {
+    "slug": "firezone",
+    "name": "Firezone",
+    "url": "https://firezone.dev",
+    "description": "Replace your VPN with Firezone, an open-source zero trust access platform built on WireGuard®. Connect users to anything, anywhere. Try free today."
+  },
+  {
+    "slug": "zerotier",
+    "name": "ZeroTier",
+    "url": "https://zerotier.com",
+    "description": "Connect everything, from cloud to IoT, with the next-generation global network solution. Simple, resilient, and secure networking in minutes."
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "url": "https://postman.com",
+    "description": "Accelerate API development with Postman's all-in-one platform. Streamline collaboration and simplify the API lifecycle for faster, better results. Learn more."
+  },
+  {
+    "slug": "kong",
+    "name": "Kong",
+    "url": "https://konghq.com",
+    "description": "From APIs to AI, Kong is the fabric of modern connectivity. Centralize LLM access, automate API workflows, and secure your digital ecosystem at scale."
+  },
+  {
+    "slug": "tyk",
+    "name": "Tyk",
+    "url": "https://tyk.io",
+    "description": "Our API Management platform is fast, scalable, modern. Including an open source API Gateway, Analytics, Dev Portal and Dashboard"
+  },
+  {
+    "slug": "gravitee",
+    "name": "Gravitee",
+    "url": "https://gravitee.io",
+    "description": "Gravitee is the AI Agent Management platform, securing, observing, and governing every AI agent, API, and event interaction at enterprise scale."
+  },
+  {
+    "slug": "readme",
+    "name": "ReadMe",
+    "url": "https://readme.com",
+    "description": "ReadMe helps you create beautiful, interactive API documentation that developers love."
+  },
+  {
+    "slug": "speakeasy",
+    "name": "Speakeasy",
+    "url": "https://speakeasy.com",
+    "description": "The AI control plane for discovering, securing, and governing AI agents, MCP servers, and AI applications across your enterprise."
+  },
+  {
+    "slug": "stainless",
+    "name": "Stainless",
+    "url": "https://stainless.com",
+    "description": "Stainless helps you deliver robust and idiomatic SDKs, documentation that keeps up with your API, and token-efficient MCP servers."
+  },
+  {
+    "slug": "fern",
+    "name": "Fern",
+    "url": "https://buildwithfern.com",
+    "description": "Start with OpenAPI. Generate SDKs in multiple languages, interactive API documentation, and an agent-first CLI."
+  },
+  {
+    "slug": "bump",
+    "name": "Bump",
+    "url": "https://bump.sh",
+    "description": "One platform to ship the docs your developers love and the MCP servers your agents can actually rely on. From OpenAPI to production, with built-in governance, authentication and observability."
+  },
+  {
+    "slug": "scalar",
+    "name": "Scalar",
+    "url": "https://scalar.com",
+    "description": "Create beautiful docs, SDKs and secure MCP servers from your API. Scalar keeps every interface in sync as your API evolves."
+  },
+  {
+    "slug": "rapidapi",
+    "name": "RapidAPI",
+    "url": "https://rapidapi.com",
+    "description": "API hub and development platform for discovering, testing, and connecting to APIs."
+  },
+  {
+    "slug": "hasura",
+    "name": "Hasura",
+    "url": "https://hasura.io",
+    "description": "Hasura delivers accurate, fast, and secure data access for AI and digital experiences. Trusted by data leaders and developers at Fortune 100 companies and high-growth AI and digital natives."
+  },
+  {
+    "slug": "apollo-graphql",
+    "name": "Apollo GraphQL",
+    "url": "https://apollographql.com",
+    "description": "Connect agents and apps to GraphQL and REST APIs with proven infrastructure trusted by enterprise leaders."
+  },
+  {
+    "slug": "wundergraph",
+    "name": "WunderGraph",
+    "url": "https://wundergraph.com",
+    "description": "Open-source GraphQL federation platform for composing, governing, and operating APIs."
+  },
+  {
+    "slug": "mockoon",
+    "name": "Mockoon",
+    "url": "https://mockoon.com",
+    "description": "Mockoon is the easiest and quickest way to run mock REST API servers. No remote deployment, no account required, free, open source and cross-platform."
+  },
+  {
+    "slug": "beeceptor",
+    "name": "Beeceptor",
+    "url": "https://beeceptor.com",
+    "description": "Create AI-powered mock servers in seconds. Generate realistic responses from prompts or real traffic for REST, SOAP, GraphQL, and gRPC. No code, no dependencies. Free"
+  },
+  {
+    "slug": "requestly",
+    "name": "Requestly",
+    "url": "https://requestly.com",
+    "description": "Design, build and test APIs in one place. The Git-native API client, enterprise-ready, used by 300,000+ developers."
+  },
+  {
+    "slug": "httpie",
+    "name": "HTTPie",
+    "url": "https://httpie.io",
+    "description": "Making APIs simple and intuitive for those building the tools of our time."
+  },
+  {
+    "slug": "hoppscotch",
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io",
+    "description": "Helps you create requests faster, saving precious time on development."
+  },
+  {
+    "slug": "bruno",
+    "name": "Bruno",
+    "url": "https://usebruno.com",
+    "description": "Bruno is the Git-native API client for REST, GraphQL, gRPC and Websocket. A local and open-source solution to Postman. Fast, developer-first, and no cloud syncing."
+  },
+  {
+    "slug": "apidog",
+    "name": "Apidog",
+    "url": "https://apidog.com",
+    "description": "Collaborative API platform for designing, debugging, mocking, testing, and documenting APIs."
+  },
+  {
+    "slug": "testfully",
+    "name": "Testfully",
+    "url": "https://testfully.io",
+    "description": "The same powerful API toolkit, connected or air-gapped—no compromises on privacy, Postman compatibility and SOC 2 Type 2, ISO 27001:2022 & HIPAA baked in."
+  },
+  {
+    "slug": "blackbird",
+    "name": "Blackbird",
+    "url": "https://blackbird.io",
+    "description": "Blackbird is the infrastructure to automate, adapt, and orchestrate content across languages, formats, and platforms at scale."
+  },
+  {
+    "slug": "treblle",
+    "name": "Treblle",
+    "url": "https://treblle.com",
+    "description": "Discover, Govern, and Secure APIs, Agents, and AI Across Any Cloud, Gateway or Technology."
+  },
+  {
+    "slug": "moesif",
+    "name": "Moesif",
+    "url": "https://moesif.com",
+    "description": "Drive more API and AI ROI with a powerful API analytics and monetization platform"
+  },
+  {
+    "slug": "svix",
+    "name": "Svix",
+    "url": "https://svix.com",
+    "description": "Svix is the enterprise-ready webhook platform delivering billions of webhooks every month for fast-growth startups and Fortune 500 companies including Brex, Benchling, and Drata."
+  },
+  {
+    "slug": "pipedream",
+    "name": "Pipedream",
+    "url": "https://pipedream.com",
+    "description": "Pipedream is the fastest way to build powerful applications that connect all the services in your stack, with code-level control when you need it and no code when you don't."
+  },
+  {
+    "slug": "n8n",
+    "name": "n8n",
+    "url": "https://n8n.io",
+    "description": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code."
+  },
+  {
+    "slug": "merge",
+    "name": "Merge",
+    "url": "https://merge.dev",
+    "description": "Merge is the infrastructure layer for production AI. One platform connects your products and agents to every API, tool, and LLM they need to run at scale."
+  },
+  {
+    "slug": "nango",
+    "name": "Nango",
+    "url": "https://nango.dev",
+    "description": "Connect your product & AI agents with 900+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale."
+  },
+  {
+    "slug": "paragon",
+    "name": "Paragon",
+    "url": "https://useparagon.com",
+    "description": "Ship native integrations faster with Paragon’s integration infrastructure, managed authentication, workflows, sync, and developer tools."
+  },
+  {
+    "slug": "cyclr",
+    "name": "Cyclr",
+    "url": "https://cyclr.com",
+    "description": "Cyclr is the native embedded iPaaS that enables B2B SaaS vendors and service providers to build, embed & automate integration workflows & custom MCP servers."
+  },
+  {
+    "slug": "prismatic",
+    "name": "Prismatic",
+    "url": "https://prismatic.io",
+    "description": "The integration platform for B2B SaaS. Build faster with AI, deploy to thousands of customers, and enable them to create and deploy their own one-off workflows."
+  },
+  {
+    "slug": "codat",
+    "name": "Codat",
+    "url": "https://codat.io",
+    "description": "Codat turns on-demand client data into personalized insights that help commercial banking teams deepen relationships and grow revenue."
+  },
+  {
+    "slug": "finch",
+    "name": "Finch",
+    "url": "https://tryfinch.com",
+    "description": "Streamline employer onboarding, operations, and administration with one platform for all your HRIS and payroll integrations. Integrate with 250+ systems through Finch."
+  },
+  {
+    "slug": "alloy-automation",
+    "name": "Alloy Automation",
+    "url": "https://runalloy.com",
+    "description": "From enabling secure autonomous AI agents to powering your product’s integration marketplace, we help you build faster and enhance your product with one enterprise-grade integration platform."
+  },
+  {
+    "slug": "stream",
+    "name": "Stream",
+    "url": "https://getstream.io",
+    "description": "Scalable and fast APIs for building social networks and apps. Activity feeds, chat, and video solutions powered by a global Edge Network."
+  },
+  {
+    "slug": "ably",
+    "name": "Ably",
+    "url": "https://ably.com",
+    "description": "Ably is the realtime platform built for scale and reliability. Power live chat, messaging, collaborative apps, and AI experiences that never drop."
+  },
+  {
+    "slug": "pubnub",
+    "name": "PubNub",
+    "url": "https://pubnub.com",
+    "description": "Power your real-time app with PubNub—the world's largest pub/sub network. Scale to 3 trillion API calls/month, with <30ms global delivery. Start building now!"
+  },
+  {
+    "slug": "pusher",
+    "name": "Pusher",
+    "url": "https://pusher.com",
+    "description": "Simple, scalable and reliable. Hosted realtime APIs loved by developers and trusted by giants. Build live dashboards, notifications, geotracking, chat and more."
+  },
+  {
+    "slug": "liveblocks",
+    "name": "Liveblocks",
+    "url": "https://liveblocks.io",
+    "description": "Liveblocks provides the infrastructure to handle concurrent edits on shared data, so people and AI agents can collaborate without breaking your app."
+  },
+  {
+    "slug": "mux",
+    "name": "Mux",
+    "url": "https://mux.com",
+    "description": "Mux helps teams ship high-performance and cost-effective video in minutes, not months. Build better video into anything from websites to platforms to AI workflows."
+  },
+  {
+    "slug": "cloudinary",
+    "name": "Cloudinary",
+    "url": "https://cloudinary.com",
+    "description": "Streamline media management and improve user experience by automatically delivering images and videos, enhanced and optimized for every user."
+  },
+  {
+    "slug": "imgix",
+    "name": "imgix",
+    "url": "https://imgix.com",
+    "description": "Redefine how you optimize, edit, and deliver your visual media with tools built for speed, performance, and AI transformation."
+  },
+  {
+    "slug": "uploadcare",
+    "name": "Uploadcare",
+    "url": "https://uploadcare.com",
+    "description": "Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers."
+  },
+  {
+    "slug": "filestack",
+    "name": "Filestack",
+    "url": "https://filestack.com",
+    "description": "Add a sleek file uploader to your website with just two lines of code. Upload files from local disk, Dropbox, Instagram, Google Drive, and over 20 integrations"
+  },
+  {
+    "slug": "imagekit",
+    "name": "ImageKit",
+    "url": "https://imagekit.io",
+    "description": "Transform and deliver optimized images and videos in real time, manage assets with a DAM with its own AI agent, and automate on-brand creatives at scale — all in one platform without enterprise complexity or…"
+  },
+  {
+    "slug": "transloadit",
+    "name": "Transloadit",
+    "url": "https://transloadit.com",
+    "description": "Upload, process, store, and deliver files through one API. Build image processing, video encoding and document workflows with Transloadit."
+  },
+  {
+    "slug": "apideck",
+    "name": "Apideck",
+    "url": "https://apideck.com",
+    "description": "Apideck gives Vertical SaaS and B2B Fintech teams one unified API to launch accounting integrations in weeks. The fastest way to build integrations."
+  },
+  {
+    "slug": "browserless",
+    "name": "Browserless",
+    "url": "https://browserless.io",
+    "description": "Give your AI agents a real cloud browser that won't crash or get blocked. Connect over MCP, Puppeteer, or Playwright with stealth and Authenticated Profiles built in."
+  },
+  {
+    "slug": "marker-io",
+    "name": "Marker.io",
+    "url": "https://marker.io",
+    "description": "Collect website feedback and report bugs into Jira, Trello, Asana, Github directly from your site with our website design, annotation, QA, and UAT software"
+  },
+  {
+    "slug": "pingram",
+    "name": "Pingram",
+    "url": "https://pingram.io",
+    "description": "One API to send and receive email, SMS, voice, and WhatsApp. Trigger-ready messaging for builders, startups, and AI agents. A2P 10DLC handled. Free tier, no credit card."
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "description": "Code hosting and collaboration platform for Git repositories, pull requests, issues, and CI/CD."
+  },
+  {
+    "slug": "gitlab",
+    "name": "GitLab",
+    "url": "https://gitlab.com",
+    "description": "The intelligent orchestration platform for DevSecOps, enabling teams and agents to ship trusted software at enterprise scale."
+  },
+  {
+    "slug": "linear",
+    "name": "Linear",
+    "url": "https://linear.app",
+    "description": "Issue tracking, project planning, and product development platform for software teams."
+  },
+  {
+    "slug": "shortcut",
+    "name": "Shortcut",
+    "url": "https://shortcut.com",
+    "description": "Shortcut is a fast, lightweight and enjoyable project management platform where software teams and their AI agents plan, build, and ship together."
+  },
+  {
+    "slug": "plane",
+    "name": "Plane",
+    "url": "https://plane.so",
+    "description": "Project management for teams and AI agents. Plan, track, and ship with Projects, Wiki, and AI. Available on cloud, self-hosted, and air-gapped."
+  },
+  {
+    "slug": "jetbrains",
+    "name": "JetBrains",
+    "url": "https://jetbrains.com",
+    "description": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language."
+  },
+  {
+    "slug": "sourcegraph",
+    "name": "Sourcegraph",
+    "url": "https://sourcegraph.com",
+    "description": "Give humans and agents complete context to understand, oversee, and evolve the world's largest, most complex codebases."
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "url": "https://cursor.com",
+    "description": "Built to make you extraordinarily productive, agents turn ideas into code. Accelerate development by handing off tasks to Cursor."
+  },
+  {
+    "slug": "replit",
+    "name": "Replit",
+    "url": "https://replit.com",
+    "description": "Build and deploy software collaboratively with the power of AI without spending a second on setup."
+  },
+  {
+    "slug": "stackblitz",
+    "name": "StackBlitz",
+    "url": "https://stackblitz.com",
+    "description": "StackBlitz is the collaborative browser-based IDE for web developers. StackBlitz eliminates time-consuming local configuration and lets developers spend more time building."
+  },
+  {
+    "slug": "codesandbox",
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io",
+    "description": "CodeSandbox is a cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time."
+  },
+  {
+    "slug": "warp",
+    "name": "Warp",
+    "url": "https://warp.dev",
+    "description": "Infrastructure to build, measure, and interact with agents across your SDLC — so you ship more and spend less."
+  },
+  {
+    "slug": "zed",
+    "name": "Zed",
+    "url": "https://zed.dev",
+    "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  },
+  {
+    "slug": "pieces",
+    "name": "Pieces",
+    "url": "https://pieces.app",
+    "description": "Pieces builds artificial memory from your work so you can recover decisions, resume where you left off, and bring real context into every AI tool."
+  },
+  {
+    "slug": "continue",
+    "name": "Continue",
+    "url": "https://continue.dev",
+    "description": "Open-source AI coding assistant and development toolkit, now part of Cursor."
+  },
+  {
+    "slug": "tabnine",
+    "name": "Tabnine",
+    "url": "https://tabnine.com",
+    "description": "Tabnine is the AI code assistant that accelerates and simplifies software development while keeping your code private, secure, and compliant."
+  },
+  {
+    "slug": "qodo",
+    "name": "Qodo",
+    "url": "https://qodo.ai",
+    "description": "Qodo is an AI code review tool giving teams deep codebase context to move faster and improve code quality, with 15+ agentic workflows for IDEs, PRs and security."
+  },
+  {
+    "slug": "augment-code",
+    "name": "Augment Code",
+    "url": "https://augmentcode.com",
+    "description": "Your engineers have agents. Your organization doesn't. Cosmos is the platform that closes the gap."
+  },
+  {
+    "slug": "cognition",
+    "name": "Cognition",
+    "url": "https://cognition.ai",
+    "description": "Cognition operates Devin, the first autonomous software engineer. Devin plans, writes, tests, and ships production code inside your existing workflows."
+  },
+  {
+    "slug": "coderabbit",
+    "name": "CodeRabbit",
+    "url": "https://coderabbit.ai",
+    "description": "AI-first pull request reviewer with context-aware feedback, line-by-line code suggestions, and real-time chat."
+  },
+  {
+    "slug": "graphite",
+    "name": "Graphite",
+    "url": "https://graphite.com",
+    "description": "Graphite helps teams on GitHub deliver higher quality software, faster."
+  },
+  {
+    "slug": "aviator",
+    "name": "Aviator",
+    "url": "https://aviator.co",
+    "description": "Shared context, faster reviews, deterministic verification, and merge-to-deploy automation built for the volume AI creates."
+  },
+  {
+    "slug": "gitkraken",
+    "name": "GitKraken",
+    "url": "https://gitkraken.com",
+    "description": "Meet GitKraken, the creator of legendary Git tools for developers and teams - like the GitKraken Desktop, with Git GUI and CLI, Git Integration for Jira, and GitLens for VS Code."
+  },
+  {
+    "slug": "gitbutler",
+    "name": "GitButler",
+    "url": "https://gitbutler.com",
+    "description": "Git client and branch-management tool for organizing changes and parallel development."
+  },
+  {
+    "slug": "trunk",
+    "name": "Trunk",
+    "url": "https://trunk.io",
+    "description": "The CI reliability platform that detects flaky tests and accelerates merges. Trusted by Zillow, Brex, and Faire."
+  },
+  {
+    "slug": "codacy",
+    "name": "Codacy",
+    "url": "https://codacy.com",
+    "description": "Govern code quality, security and AI coding policies from a single place. Enabling dev teams to ship safely without slowing down."
+  },
+  {
+    "slug": "code-climate",
+    "name": "Code Climate",
+    "url": "https://codeclimate.com",
+    "description": "Code Climate gives leaders the evidence and the playbooks to transform how their enterprise builds software, and make it AI-native."
+  },
+  {
+    "slug": "sonar",
+    "name": "Sonar",
+    "url": "https://sonarsource.com",
+    "description": "Trusted by 7M+ developers, SonarQube is the AI code review and code verification platform that catches quality and security issues before they reach production."
+  },
+  {
+    "slug": "deepsource",
+    "name": "DeepSource",
+    "url": "https://deepsource.com",
+    "description": "Your team is writing more code with AI. DeepSource automates code reviews so you ship to production faster — catching security issues, improving code quality, and helping your team write better code. 14-day free trial."
+  },
+  {
+    "slug": "browserstack",
+    "name": "BrowserStack",
+    "url": "https://browserstack.com",
+    "description": "Instant access to 3500+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial."
+  },
+  {
+    "slug": "sauce-labs",
+    "name": "Sauce Labs",
+    "url": "https://saucelabs.com",
+    "description": "AI writes code faster than teams can verify it. AURA closes the gap with agentic test authoring, execution, and analysis across the full release lifecycle."
+  },
+  {
+    "slug": "testmu-ai",
+    "name": "TestMu AI",
+    "url": "https://testmuai.com",
+    "description": "Power your software testing with AI and cloud. Test intelligently, deploy and scale faster with TestMu AI (Formerly LambdaTest) unified testing platform."
+  },
+  {
+    "slug": "testingbot",
+    "name": "TestingBot",
+    "url": "https://testingbot.com",
+    "description": "Instant access to over 6100 browsers with physical iOS and Android devices. Parallel Testing. Automated Testing. Boost your UI test suite in minutes with TestingBot."
+  },
+  {
+    "slug": "cypress",
+    "name": "Cypress",
+    "url": "https://cypress.io",
+    "description": "Simplify front-end testing with Cypress' open-source app. Explore our versatile testing frameworks for browser-based applications and components."
+  },
+  {
+    "slug": "testim",
+    "name": "Testim",
+    "url": "https://testim.io",
+    "description": "Testim is an automated testing platform for fast authoring of AI-powered stable tests and tools to help you scale quality. Free account."
+  },
+  {
+    "slug": "mabl",
+    "name": "mabl",
+    "url": "https://mabl.com",
+    "description": "The #1 agentic testing platform empowering software teams to accelerate releases, ensure software quality, and deliver exceptional user experiences."
+  },
+  {
+    "slug": "katalon",
+    "name": "Katalon",
+    "url": "https://katalon.com",
+    "description": "Meet Katalon True Platform, the AI platform that plans, authors, executes, and analyzes quality across web, mobile, API, and desktop. Trusted by 120,000+ testers worldwide. Start free"
+  },
+  {
+    "slug": "qa-wolf",
+    "name": "QA Wolf",
+    "url": "https://qawolf.com",
+    "description": "Ship at the speed of AI. QA Wolf autonomously maps, writes, and runs flake-free E2E tests for web and mobile apps with 100% parallel execution."
+  },
+  {
+    "slug": "reflect",
+    "name": "Reflect",
+    "url": "https://reflect.run",
+    "description": "SmartBear Reflect helps teams maintain application integrity with AI-powered, codeless web and mobile testing, so your app works the way it's intended, every release."
+  },
+  {
+    "slug": "autify",
+    "name": "Autify",
+    "url": "https://autify.com",
+    "description": "Autify's AI-powered Quality Engineering Platform provides AI-powered product and quality assurance professionals to streamline your software testing process and boost the productivity of your development organization."
+  },
+  {
+    "slug": "momentic",
+    "name": "Momentic",
+    "url": "https://momentic.ai",
+    "description": "Write end-to-end tests for web and mobile in plain English. Momentic runs them everywhere and keeps them up to date."
+  },
+  {
+    "slug": "meticulous",
+    "name": "Meticulous",
+    "url": "https://meticulous.ai",
+    "description": "Meticulous auto-generates and auto-maintains visual frontend browser tests, providing a level of coverage that is unattainable with manually written tests."
+  },
+  {
+    "slug": "replay",
+    "name": "Replay",
+    "url": "https://replay.io",
+    "description": "Connect a GitHub repo for continuous testing, or drop in a URL to test on demand. Replay QA finds real bugs and gives your coding agent the root cause and fix."
+  },
+  {
+    "slug": "argos",
+    "name": "Argos",
+    "url": "https://argos-ci.com",
+    "description": "Argos keeps product quality high while your team and your agents ship faster. See every change a PR makes, whether pixels, Markdown, or JSON, review it with confidence, and deploy every PR."
+  },
+  {
+    "slug": "chromatic",
+    "name": "Chromatic",
+    "url": "https://chromatic.com",
+    "description": "Chromatic catches visual, interaction, and accessibility issues before they ship. This enforces your UI standards, even when AI codes. Assign reviewers to speed up sign-off and provide agents with validated UI context."
+  },
+  {
+    "slug": "applitools",
+    "name": "Applitools",
+    "url": "https://applitools.com",
+    "description": "Applitools is an AI-powered end-to-end testing platform that combines our proven Visual AI with the latest GenAI and no-code approaches to maximize your test coverage while automating maintenance and reducing false…"
+  },
+  {
+    "slug": "buildpulse",
+    "name": "BuildPulse",
+    "url": "https://buildpulse.io",
+    "description": "BuildPulse runs your CI jobs in 31 to 48 percent less time at less than half the cost, detects and quarantines flaky tests, and reviews every pull request for real bugs."
+  },
+  {
+    "slug": "tracetest",
+    "name": "Tracetest",
+    "url": "https://tracetest.io",
+    "description": "Tracetest empowers developers to troubleshoot microservices faster. Pinpoint failures, identify root causes, and debug seamlessly with OpenTelemetry."
+  },
+  {
+    "slug": "keploy",
+    "name": "Keploy",
+    "url": "https://keploy.io",
+    "description": "Keploy builds a Digital Twin of your production behavior — real API traffic, mocks, and dependencies — so every AI- or human-written change is verified in CI before it ships. Open source, zero code changes."
+  },
+  {
+    "slug": "testkube",
+    "name": "Testkube",
+    "url": "https://testkube.io",
+    "description": "Testkube orchestrates any test, from any tool, inside your own clusters, cloud or on-prem. One platform for test execution, results, and analysis."
+  },
+  {
+    "slug": "localstack",
+    "name": "LocalStack",
+    "url": "https://localstack.cloud",
+    "description": "LocalStack creates secure cloud development and testing sandbox environments so AI agents, software developers, and CI/CD pipelines can build, test, and validate applications before they touch the cloud."
+  },
+  {
+    "slug": "testcontainers",
+    "name": "Testcontainers",
+    "url": "https://testcontainers.com",
+    "description": "Testcontainers is an opensource library for providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "slug": "codecov",
+    "name": "Codecov",
+    "url": "https://codecov.io",
+    "description": "Ship high-quality code & spend less time debugging. Improve developer workflow, re-run flaky tests, & track JavaScript bundle size. Learn about our code quality & coverage tool here."
+  },
+  {
+    "slug": "expo",
+    "name": "Expo",
+    "url": "https://expo.dev",
+    "description": "Expo is the fastest way to build native apps for iOS, Android, and the web with React."
+  },
+  {
+    "slug": "ionic",
+    "name": "Ionic",
+    "url": "https://ionic.io",
+    "description": "Build, secure, and deliver amazing cross-platform mobile, web, and desktop apps all with one shared code base and open-web standards. The only enterprise-grade app platform fully powered by open source."
+  },
+  {
+    "slug": "builder-io",
+    "name": "Builder.io",
+    "url": "https://builder.io",
+    "description": "One codebase for engineers, designers, PMs, and marketers. Everyone works from one source of truth, on brand and in code, with no handoffs to clean up."
+  },
+  {
+    "slug": "plasmic",
+    "name": "Plasmic",
+    "url": "https://plasmic.app",
+    "description": "Plasmic lets you build powerful web apps super fast, from internal tools to user facing products. Integrate with your codebase for unlimited possibilities."
+  },
+  {
+    "slug": "locofy",
+    "name": "Locofy",
+    "url": "https://locofy.ai",
+    "description": "Locofy converts your Figma & Penpot designs into developer-friendly code. It supports React, React Native, HTML-CSS, Flutter, Vue, Angular, Next.js, etc. SOC2 + ISO certified. Deploy on-prem or cloud."
+  },
+  {
+    "slug": "anima",
+    "name": "Anima",
+    "url": "https://animaapp.com",
+    "description": "Anima is the design-aware AI agent that bridges creativity and code."
+  },
+  {
+    "slug": "tailwind-labs",
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com",
+    "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML."
+  },
+  {
+    "slug": "mui",
+    "name": "MUI",
+    "url": "https://mui.com",
+    "description": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design."
+  },
+  {
+    "slug": "ag-grid",
+    "name": "AG Grid",
+    "url": "https://ag-grid.com",
+    "description": "AG Grid is a feature-rich Data Grid for all major JavaScript frameworks, offering filtering, grouping, pivoting, and more. Free and open-source. Upgrade to Enterprise for advanced features."
+  },
+  {
+    "slug": "handsontable",
+    "name": "Handsontable",
+    "url": "https://handsontable.com",
+    "description": "JavaScript data grid that looks and feels like a spreadsheet. Works with React, Angular, and Vue."
+  },
+  {
+    "slug": "mapbox",
+    "name": "Mapbox",
+    "url": "https://mapbox.com",
+    "description": "APIs and SDKs for AI-powered maps, location search, turn-by-turn navigation, and geospatial data in mobile or web apps. Get started for free."
+  },
+  {
+    "slug": "maptiler",
+    "name": "MapTiler",
+    "url": "https://maptiler.com",
+    "description": "Mapping platform designed for developers. Publish interactive maps in your web applications and on mobile devices."
+  },
+  {
+    "slug": "sanity",
+    "name": "Sanity",
+    "url": "https://sanity.io",
+    "description": "Sanity is the back-end built for AI content operations. Power web, mobile, and agentic applications at scale."
+  },
+  {
+    "slug": "strapi",
+    "name": "Strapi",
+    "url": "https://strapi.io",
+    "description": "Strapi is the next-gen headless CMS, open-source, JavaScript/TypeScript, enabling content-rich experiences to be created, managed and exposed to any device."
+  },
+  {
+    "slug": "directus",
+    "name": "Directus",
+    "url": "https://directus.com",
+    "description": "The collaborative backend and self-hostable headless CMS over any database. No-code interface, REST + GraphQL APIs, and MCP for Claude, ChatGPT, and Cursor."
+  },
+  {
+    "slug": "payload",
+    "name": "Payload",
+    "url": "https://payloadcms.com",
+    "description": "Open-source headless CMS and application framework built for Next.js."
+  },
+  {
+    "slug": "contentful",
+    "name": "Contentful",
+    "url": "https://contentful.com",
+    "description": "Composable content platform for managing and delivering content across digital products."
+  },
+  {
+    "slug": "contentstack",
+    "name": "Contentstack",
+    "url": "https://contentstack.com",
+    "description": "Contentstack is the creator of the industry’s first Agentic Experience Platform (AXP)."
+  },
+  {
+    "slug": "prismic",
+    "name": "Prismic",
+    "url": "https://prismic.io",
+    "description": "Prismic is the agentic web platform for marketing teams. Turn briefs into high-performing websites faster with AI agents, reusable components, and developer-friendly workflows."
+  },
+  {
+    "slug": "tina",
+    "name": "TinaCMS",
+    "url": "https://tina.io",
+    "description": "Combine the power of GitHub and Markdown with TinaCMS for seamless content management. Empower developers and creators to edit, preview, and manage static and dynamic sites effortlessly."
+  },
+  {
+    "slug": "uniform",
+    "name": "Uniform",
+    "url": "https://uniform.dev",
+    "description": "Uniform's Agentic digital experience platform allows enterprise digital marketing teams to create omnichannel digital experiences. Deliver fast, personalized sites at scale."
+  },
+  {
+    "slug": "kontent",
+    "name": "Kontent.ai",
+    "url": "https://kontent.ai",
+    "description": "Maximize the impact of your valuable content with Kontent.ai ➜ the CMS designed to streamline operations, reduce risk, and speed up time to value ✔ Discover more!"
+  },
+  {
+    "slug": "gitbook",
+    "name": "GitBook",
+    "url": "https://gitbook.com",
+    "description": "GitBook is a knowledge platform that connects your docs, product and users, answers user questions, and identifies knowledge gaps. Docs-as-code support & AI insights included."
+  },
+  {
+    "slug": "archbee",
+    "name": "Archbee",
+    "url": "https://archbee.com",
+    "description": "Build beautiful knowledge portals that are easy to navigate, search, share and contribute to."
+  },
+  {
+    "slug": "theneo",
+    "name": "Theneo",
+    "url": "https://theneo.io",
+    "description": "Theneo helps humans and AI agents ship API docs together—with private developer portals, real-time co-editing, changelogs, MCP, llms.txt, and Ask AI."
+  },
+  {
+    "slug": "redocly",
+    "name": "Redocly",
+    "url": "https://redocly.com",
+    "description": "OpenAPI-generated documentation tool with 24k+ stars on Github - make APIs your company's superpower."
+  },
+  {
+    "slug": "document360",
+    "name": "Document360",
+    "url": "https://document360.com",
+    "description": "Start building intelligent documentation today with AI search, AI chatbot, and writing tools inside Document360, the knowledge base trusted by teams worldwide."
+  },
+  {
+    "slug": "courier",
+    "name": "Courier",
+    "url": "https://courier.com",
+    "description": "The messaging platform for humans and AI agents. Send multichannel notifications across email, push, SMS, Slack, and more, with journeys and preferences built in."
+  },
+  {
+    "slug": "novu",
+    "name": "Novu",
+    "url": "https://novu.co",
+    "description": "Novu is the open-source notification and agent communication infrastructure. Connect AI agents and products to customers across in-app, email, SMS, push, WhatsApp, Slack, Microsoft Teams, and Telegram with one API."
+  },
+  {
+    "slug": "suprsend",
+    "name": "SuprSend",
+    "url": "https://suprsend.com",
+    "description": "Meet SuprSend, a notification infrastructure to help developers build and manage notifications on all channels - sms, email, push, slack, chat and more - design once and send to all channels with a single API."
+  },
+  {
+    "slug": "loops",
+    "name": "Loops",
+    "url": "https://loops.so",
+    "description": "Loops is email marketing software for SaaS teams to send marketing, lifecycle, and transactional email from one product. Free to start."
+  },
+  {
+    "slug": "plunk",
+    "name": "Plunk",
+    "url": "https://useplunk.com",
+    "description": "Send transactional emails, run marketing campaigns, and automate workflows. Open-source and self-hostable, $0.001 per email, no contact limits."
+  },
+  {
+    "slug": "postmark",
+    "name": "Postmark",
+    "url": "https://postmarkapp.com",
+    "description": "Send transactional and marketing emails and get them to the inbox on time, every time. Postmark is a fast and reliable email delivery service for developers."
+  },
+  {
+    "slug": "mailgun",
+    "name": "Mailgun",
+    "url": "https://mailgun.com",
+    "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. Learn more today!"
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "description": "Stripe is a financial services platform that helps all types of businesses accept payments, build flexible billing models and manage money movement."
+  },
+  {
+    "slug": "paddle",
+    "name": "Paddle",
+    "url": "https://paddle.com",
+    "description": "Increase revenue, reduce risk and reduce cost with Paddle, the payment solution powering global revenue for n8n, Letterboxd & AdGuard. One platform that handles billing, tax and compliance."
+  },
+  {
+    "slug": "chargebee",
+    "name": "Chargebee",
+    "url": "https://chargebee.com",
+    "description": "Chargebee powers billing, pricing, and revenue operations for 6,500+ businesses. From recurring subscriptions to usage-based AI monetization - every model, one platform."
+  },
+  {
+    "slug": "lago",
+    "name": "Lago",
+    "url": "https://getlago.com",
+    "description": "Scale your AI or tech business with Lago: event-driven usage metering, hybrid pricing, and open-source or cloud deployment."
+  },
+  {
+    "slug": "orb",
+    "name": "Orb",
+    "url": "https://withorb.com",
+    "description": "Design, execute, and operate revenue with usage-based billing. Orb helps modern software companies adapt pricing as products, usage, and costs evolve."
+  },
+  {
+    "slug": "metronome",
+    "name": "Metronome",
+    "url": "https://metronome.com",
+    "description": "Metronome is the usage-based billing platform that helps you launch products faster. Easily model your pricing today, iterate confidently tomorrow."
+  },
+  {
+    "slug": "amberflo",
+    "name": "Amberflo",
+    "url": "https://amberflo.io",
+    "description": "Amberflo is the AI monetization platform that tracks underlying usage and costs, enforces budget controls, and automates usage-based and hybrid billing."
+  },
+  {
+    "slug": "openmeter",
+    "name": "OpenMeter",
+    "url": "https://openmeter.io",
+    "description": "Ship usage-based billing with OpenMeter by Kong: real-time AI and API metering, entitlements, and flexible pricing. Open source or managed on Konnect."
+  },
+  {
+    "slug": "stigg",
+    "name": "Stigg",
+    "url": "https://stigg.io",
+    "description": "Meter usage, manage entitlements, and monetize AI features in real time, without building the billing infrastructure yourself."
+  },
+  {
+    "slug": "meterian",
+    "name": "Meterian",
+    "url": "https://meterian.io",
+    "description": "Secure your software supply chain with Meterian’s real-time open source vulnerability scanner. De-risk dependencies at every build."
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "url": "https://openai.com",
+    "description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "url": "https://anthropic.com",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+  },
+  {
+    "slug": "cohere",
+    "name": "Cohere",
+    "url": "https://cohere.com",
+    "description": "Cohere builds powerful models and AI solutions enabling enterprises to automate processes, empower employees, and turn fragmented data into actionable insights."
+  },
+  {
+    "slug": "mistral-ai",
+    "name": "Mistral AI",
+    "url": "https://mistral.ai",
+    "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models."
+  },
+  {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
+  },
+  {
+    "slug": "replicate",
+    "name": "Replicate",
+    "url": "https://replicate.com",
+    "description": "Cloud API for running and deploying open-source and custom machine-learning models."
+  },
+  {
+    "slug": "together-ai",
+    "name": "Together AI",
+    "url": "https://together.ai",
+    "description": "Build what's next on the AI Native Cloud. Full-stack AI platform for inference, fine-tuning, and GPU clusters — powered by cutting-edge research."
+  },
+  {
+    "slug": "fireworks-ai",
+    "name": "Fireworks AI",
+    "url": "https://fireworks.ai",
+    "description": "Fireworks’ state of the art training and inference platform take you beyond the frontier, transforming open models into your specialized intelligence."
+  },
+  {
+    "slug": "groq",
+    "name": "Groq",
+    "url": "https://groq.com",
+    "description": "Groq is the premier neocloud for fast inference. One fully integrated platform for infrastructure, inference, and control. Millions of developers run trillions of tokens on Groq every week."
+  },
+  {
+    "slug": "runpod",
+    "name": "RunPod",
+    "url": "https://runpod.io",
+    "description": "AI infrastructure with on-demand GPUs and serverless compute. Run training, inference, and batch workloads on the cloud with Runpod."
+  },
+  {
+    "slug": "fal",
+    "name": "fal",
+    "url": "https://fal.ai",
+    "description": "Easiest & most cost-effective way to use Gen AI. fal.ai is how devs integrate dozens of generative media models. FLUX, Kling, Hailuo +1000 more"
+  },
+  {
+    "slug": "deepinfra",
+    "name": "DeepInfra",
+    "url": "https://deepinfra.com",
+    "description": "DeepInfra offers cost-effective, scalable, easy-to-deploy, and production-ready machine-learning models and infrastructures for deep-learning models."
+  },
+  {
+    "slug": "anyscale",
+    "name": "Anyscale",
+    "url": "https://anyscale.com",
+    "description": "Powered by Ray, Anyscale helps AI builders run data-intensive workloads to build and deploy Foundation Models and AI at scale on any cloud."
+  },
+  {
+    "slug": "bentoml",
+    "name": "BentoML",
+    "url": "https://bentoml.com",
+    "description": "Inference Platform built for speed and control. Deploy any model anywhere, with tailored inference optimization, efficient scaling, and streamlined operations."
+  },
+  {
+    "slug": "lambda",
+    "name": "Lambda",
+    "url": "https://lambda.ai",
+    "description": "Train and scale AI on NVIDIA VR200 NVL 72, GB300 NVL 72, B300, B200, H200, H100, and and more GPUs. Launch on-demand instances or reserve a cluster. Get started."
+  },
+  {
+    "slug": "coreweave",
+    "name": "CoreWeave",
+    "url": "https://coreweave.com",
+    "description": "CoreWeave is the force multiplier that empowers pioneers with momentum, magnitude, and mastery—enabling them to innovate with confidence. Explore the #1 AI Cloud."
+  },
+  {
+    "slug": "langchain",
+    "name": "LangChain",
+    "url": "https://langchain.com",
+    "description": "LangChain enables every company to own their intelligence. Control, govern, and compound intelligence with an open agent engineering platform."
+  },
+  {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "url": "https://llamaindex.ai",
+    "description": "LlamaParse is the world's best agentic OCR for processing complex documents with messy tables, charts, images, and more with human-level accuracy."
+  },
+  {
+    "slug": "vellum",
+    "name": "Vellum",
+    "url": "https://vellum.ai",
+    "description": "An assistant that knows you deeply, evolves alongside you, and belongs to no one else. Powered by memory that remembers the way you do."
+  },
+  {
+    "slug": "portkey",
+    "name": "Portkey",
+    "url": "https://portkey.ai",
+    "description": "Democratize and productionize Gen AI across your entire org with Portkey's suite of AI gateway, observability, guardrails, and prompt management modules."
+  },
+  {
+    "slug": "helicone",
+    "name": "Helicone",
+    "url": "https://helicone.ai",
+    "description": "Routing and monitoring for reliable AI apps - the LLMOps platform behind the fastest-growing AI companies."
+  },
+  {
+    "slug": "langfuse",
+    "name": "Langfuse",
+    "url": "https://langfuse.com",
+    "description": "Trace, evaluate, and improve AI agents with one open platform. Use production data to understand behavior, collaborate on fixes, and ship better quality at lower cost and latency."
+  },
+  {
+    "slug": "arize",
+    "name": "Arize AI",
+    "url": "https://arize.com",
+    "description": "Continuously improve AI agents with agent observability, evaluation, tracing, and experimentation."
+  },
+  {
+    "slug": "whylabs",
+    "name": "WhyLabs",
+    "url": "https://whylabs.ai",
+    "description": "Open-source AI observability tools for monitoring data and model behavior; the company has discontinued operations."
+  },
+  {
+    "slug": "fiddler",
+    "name": "Fiddler AI",
+    "url": "https://fiddler.ai",
+    "description": "The AI Control Plane for enterprises. Gain visibility, context, and control through evaluation, monitoring, enforcement, governance, and cost efficiency."
+  },
+  {
+    "slug": "patronus-ai",
+    "name": "Patronus AI",
+    "url": "https://patronus.ai",
+    "description": "Patronus AI develops simulation research and infrastructure to accelerate progress toward human-aligned AGI"
+  },
+  {
+    "slug": "galileo",
+    "name": "Galileo",
+    "url": "https://galileo.ai",
+    "description": "Galileo's AI observability and evaluation platform empowers AI teams to evaluate, monitor, and protect GenAI applications and agents at enterprise scale."
+  },
+  {
+    "slug": "cleanlab",
+    "name": "Cleanlab",
+    "url": "https://cleanlab.ai",
+    "description": "Cleanlab helps teams build safer AI agents by preventing incorrect responses from reaching users. Detect and remediate incorrect responses from any AI agent to ensure safety, compliance, and trust at scale."
+  },
+  {
+    "slug": "parea",
+    "name": "Parea",
+    "url": "https://parea.ai",
+    "description": "Experimentation, evaluation, and human-annotation platform for AI applications."
+  },
+  {
+    "slug": "weights-biases",
+    "name": "Weights & Biases",
+    "url": "https://wandb.ai",
+    "description": "Learn why thousands of companies rely on W&B as their system of record for training AI models and developing AI applications with confidence."
+  },
+  {
+    "slug": "comet",
+    "name": "Comet",
+    "url": "https://comet.com",
+    "description": "Comet is the creator of Opik, an end-to-end AI observability platform for developers with best-in-class agent testing, optimization, and monitoring."
+  },
+  {
+    "slug": "maxim-ai",
+    "name": "Maxim AI",
+    "url": "https://getmaxim.ai",
+    "description": "The fastest, most resilient, enterprise-grade LLM, MCP, and agent gateway. Routing, governance, guardrails, and observability via one control plane. Open source."
+  },
+  {
+    "slug": "confident-ai",
+    "name": "Confident AI",
+    "url": "https://confident-ai.com",
+    "description": "Confident AI is the AI quality platform for enterprise teams to standardize AI evals and observability across the org — one consistent bar for how every team measures and monitors their AI."
+  },
+  {
+    "slug": "giskard",
+    "name": "Giskard",
+    "url": "https://giskard.ai",
+    "description": "Secure AI agents with Giskard’s continuous AI red teaming. Detect vulnerabilities, improve LLM security, and safeguard your AI systems."
+  },
+  {
+    "slug": "unstructured",
+    "name": "Unstructured",
+    "url": "https://unstructured.io",
+    "description": "Transform complex, unstructured data into clean, AI-ready inputs. Connect to any source, process 64+ file types, and power your GenAI projects. Start now."
+  },
+  {
+    "slug": "e2b",
+    "name": "E2B",
+    "url": "https://e2b.dev",
+    "description": "E2B Gives AI Agents Secure Computers with Real-World Tools. E2B is Used by 94% of Fortune 100 Companies for Frontier Agentic Workflows."
+  },
+  {
+    "slug": "arcade",
+    "name": "Arcade",
+    "url": "https://arcade.dev",
+    "description": "Arcade is the MCP runtime for secure agent authorization, reliable tools, and governance. Ship AI agents faster. Try it free today."
+  },
+  {
+    "slug": "smithery",
+    "name": "Smithery",
+    "url": "https://smithery.ai",
+    "description": "Connect agents to thousands of tools and services so they can act with more agency. Auth, credentials, and sessions handled for you."
+  },
+  {
+    "slug": "letta",
+    "name": "Letta",
+    "url": "https://letta.com",
+    "description": "Making machines that learn. Create stateful agents that remember everything, learn continuously, and improve themselves over time."
+  },
+  {
+    "slug": "crewai",
+    "name": "CrewAI",
+    "url": "https://crewai.com",
+    "description": "Framework and platform for building and operating teams of AI agents."
+  },
+  {
+    "slug": "mem0",
+    "name": "Mem0",
+    "url": "https://mem0.ai",
+    "description": "Mem0 enables AI agents & apps to continuously learn from past user interactions, enhancing their intelligence and personalization."
+  },
+  {
+    "slug": "zep",
+    "name": "Zep",
+    "url": "https://getzep.com",
+    "description": "Zep gives AI agents enterprise-grade memory via context graphs — sub-200ms retrieval, SOC 2 compliant, validated by S&P Market Intelligence."
+  },
+  {
+    "slug": "supermemory",
+    "name": "Supermemory",
+    "url": "https://supermemory.ai",
+    "description": "The memory layer for AI agents. Context engineering platform powering enterprise APIs, developer plugins, and a personal app that remembers everything."
+  },
+  {
+    "slug": "dust",
+    "name": "Dust",
+    "url": "https://dust.tt",
+    "description": "Platform for building secure, connected AI agents for enterprise teams."
+  },
+  {
+    "slug": "stack-ai",
+    "name": "Stack AI",
+    "url": "https://stackai.com",
+    "description": "StackAI empowers enterprises to deploy AI Agents at scale. Build secure, compliant AI applications in minutes with our intuitive drag-and-drop no-code platform."
+  },
+  {
+    "slug": "flowise",
+    "name": "Flowise",
+    "url": "https://flowiseai.com",
+    "description": "Open source generative AI development platform for building AI agents, LLM orchestration, and more"
+  },
+  {
+    "slug": "mirascope",
+    "name": "Mirascope",
+    "url": "https://mirascope.com",
+    "description": "Python toolkit for building reliable applications with language models."
+  },
+  {
+    "slug": "traceloop",
+    "name": "Traceloop",
+    "url": "https://traceloop.com",
+    "description": "Traceloop turns evals and monitors into a continuous feedback loop - so every release gets better"
+  },
+  {
+    "slug": "promptlayer",
+    "name": "PromptLayer",
+    "url": "https://promptlayer.com",
+    "description": "PromptLayer is the prompt management platform for AI teams. Version prompts, run LLM evals, and monitor agents in production with tracing, logs, and regression sets."
+  },
+  {
+    "slug": "respan",
+    "name": "Respan",
+    "url": "https://respan.ai",
+    "description": "Respan unifies LLM observability, evals, prompt optimization, and an AI gateway so teams can ship reliable AI applications."
+  },
+  {
+    "slug": "athina",
+    "name": "Athina",
+    "url": "https://athina.ai",
+    "description": "Collaborative AI development platform for building, testing, evaluating, and monitoring AI applications."
+  },
+  {
+    "slug": "avo",
+    "name": "Avo",
+    "url": "https://avo.app",
+    "description": "Avo helps data and product teams guarantee event data quality upstream, so they can build great user experiences"
+  },
+  {
+    "slug": "develocity",
+    "name": "Develocity",
+    "url": "https://develocity.ai",
+    "description": "Develocity encodes a decade of build and test expertise into a context engineering layer, with agents and engines that govern and accelerate software delivery."
+  },
+  {
+    "slug": "duckbill",
+    "name": "Duckbill",
+    "url": "https://duckbillhq.com",
+    "description": "We provide financial planning and analysis for enterprise infrastructure to help you understand, negotiate, and optimize your cloud spend."
+  },
+  {
+    "slug": "greta",
+    "name": "Greta",
+    "url": "https://greta.io",
+    "description": "Content-delivery optimization platform that used real-time network data; development ended in 2018."
+  },
+  {
+    "slug": "kosli",
+    "name": "Kosli",
+    "url": "https://kosli.com",
+    "description": "Kosli is a platform that automates governance for the AI SDLC. Built for regulated enterprises. Trusted by Deutsche Bank."
+  },
+  {
+    "slug": "memgraph",
+    "name": "Memgraph",
+    "url": "https://memgraph.com",
+    "description": "Experience high-performance graph computing with Memgraph — the scalable, in-memory graph database solution compatible with Neo4j."
+  },
+  {
+    "slug": "mobot",
+    "name": "Mobot",
+    "url": "https://mobot.io",
+    "description": "Scale your mobile coverage with a new type of AI-enabled service that combines real mechanical robots, physical devices, and quality experts."
+  },
+  {
+    "slug": "moonchild",
+    "name": "Moonchild",
+    "url": "https://moonchild.ai",
+    "description": "AI product-design tool that turns requirements and design systems into screens and prototypes."
+  },
+  {
+    "slug": "multimodel",
+    "name": "Multimodel",
+    "url": "https://multimodel.com",
+    "description": "Helping organizations become extraordinarily productive with AI while meeting strict policy & compliance requirements."
+  },
+  {
+    "slug": "musical-ai",
+    "name": "Musical AI",
+    "url": "https://musical.ai",
+    "description": "Rights and attribution infrastructure for licensing music to generative-AI products."
+  },
+  {
+    "slug": "nodesource",
+    "name": "NodeSource",
+    "url": "https://nodesource.com",
+    "description": "N—Solid DevTools brings Node.js production telemetry into your editor and AI coding agents. Install the Extension for VS Code, Cursor, and Windsurf, plus the Plugin for Claude Code and other MCP agents."
+  },
+  {
+    "slug": "pagerduty",
+    "name": "PagerDuty",
+    "url": "https://pagerduty.com",
+    "description": "Turn incidents into intelligence. PagerDuty's AI-first Operations Platform helps you automate, resolve, and prevent critical issues — from detection to resolution."
+  },
+  {
+    "slug": "pantheon",
+    "name": "Pantheon",
+    "url": "https://pantheon.io",
+    "description": "Pantheon.io is the platform built for WordPress, Drupal, and Next.js. We deliver your business needs to build, host, and manage with digital speed and agility."
+  },
+  {
+    "slug": "particle",
+    "name": "Particle",
+    "url": "https://particle.io",
+    "description": "Particle helps the world's most innovative companies power their connected machines, vehicles, and products."
+  },
+  {
+    "slug": "partnerpage",
+    "name": "PartnerPage",
+    "url": "https://partnerpage.io",
+    "description": "PartnerPage is a platform to promote and discover partners, simplifying and automating the process of building and maintaining a partner directory."
+  },
+  {
+    "slug": "radar",
+    "name": "Radar",
+    "url": "https://radar.com",
+    "description": "Radar helps teams fight fraud, optimize operations, and engage customers, powered by the most accurate, real-time location and device signals."
+  },
+  {
+    "slug": "reo-dev",
+    "name": "Reo.Dev",
+    "url": "https://reo.dev",
+    "description": "Win your next deal with agentic GTM workflows built on the world's largest bank of technical buying signals"
+  },
+  {
+    "slug": "replicated",
+    "name": "Replicated",
+    "url": "https://replicated.com",
+    "description": "Replicated is the platform leading software companies use to ship and manage self-hosted software at scale."
+  },
+  {
+    "slug": "shipyard",
+    "name": "Shipyard",
+    "url": "https://shipyard.build",
+    "description": "Shipyard is an environment management platform for engineering teams."
+  },
+  {
+    "slug": "tonic",
+    "name": "Tonic",
+    "url": "https://tonic.ai",
+    "description": "Accelerate development & testing with Tonic.ai. Generate realistic, production-like test data that preserves privacy & compliance in complex environments. Learn more!"
+  },
+  {
+    "slug": "treasure-ai",
+    "name": "Treasure AI",
+    "url": "https://treasure.ai",
+    "description": "Treasure AI is the Agentic Experience Platform built to acquire, retain, and grow your most valuable customers, powered by AI, shaped by human creativity, and always-on through continuous, context-driven action."
+  },
+  {
+    "slug": "unikraft",
+    "name": "Unikraft",
+    "url": "https://unikraft.com",
+    "description": "The millisecond compute layer used for sandboxes, headless browsers, CI/builds, functions / Agents / Databases and much more."
+  },
+  {
+    "slug": "macro",
+    "name": "Macro",
+    "url": "https://macro.com",
+    "description": "Macro unifies email, chat, docs, tasks, calendar, code, CRM and AI into one open source system with shared memory."
+  },
+  {
+    "slug": "en-dev",
+    "name": "en.dev",
+    "url": "https://en.dev",
+    "description": "Developer of mise and other open-source tools for managing runtimes, environment variables, and project tasks."
+  },
+  {
+    "slug": "alchemy",
+    "name": "Alchemy",
+    "url": "https://alchemy.run",
+    "description": "Alchemy is the IaC tool that's actually TypeScript. Stand up your whole cloud in one program, type-check the IAM, hot-reload it locally, run tests against the real cloud, preview every PR, and ship dashboards &…"
+  },
+  {
+    "slug": "honeybadger",
+    "name": "Honeybadger",
+    "url": "https://honeybadger.io",
+    "description": "Real-time error tracking, APM & logging for your favorite stack. Helps developers find and fix issues faster. Get started for free."
+  },
+  {
+    "slug": "valibot",
+    "name": "Valibot",
+    "url": "https://valibot.dev",
+    "description": "Validate unknown data with Valibot, the open source schema library with bundle size, type safety and developer experience in mind."
+  },
+  {
+    "slug": "nordcraft",
+    "name": "Nordcraft",
+    "url": "https://nordcraft.com",
+    "description": "Nordcraft combines a powerful AI agent with a visual website builder, giving you the speed of AI with complete creative control. Start building for free today."
+  },
+  {
+    "slug": "shorebird",
+    "name": "Shorebird",
+    "url": "https://shorebird.dev",
+    "description": "Ship Flutter apps faster with Shorebird Code Push and CI. Deploy fixes instantly, reduce risk, and stay in control of releases."
+  },
+  {
+    "slug": "rivet",
+    "name": "Rivet",
+    "url": "https://rivet.dev",
+    "description": "Rivet is infrastructure for the agentic era. Orchestrate agents, operate their environment, automate their work, and deploy what they build."
+  },
+  {
+    "slug": "pnpm",
+    "name": "pnpm",
+    "url": "https://pnpm.io",
+    "description": "Fast, disk-efficient JavaScript package manager with workspace support."
+  },
+  {
+    "slug": "webstudio",
+    "name": "Webstudio",
+    "url": "https://webstudio.is",
+    "description": "Webstudio is an open source website builder that empowers creators to build highly maintainable and fast websites using modern web standards."
+  },
+  {
+    "slug": "better-auth",
+    "name": "Better Auth",
+    "url": "https://better-auth.com",
+    "description": "Framework-agnostic authentication and authorization library for TypeScript."
+  },
+  {
+    "slug": "instantdb",
+    "name": "InstantDB",
+    "url": "https://instantdb.com",
+    "description": "We make you and your agent more productive by giving your frontend a real-time database."
+  },
+  {
+    "slug": "tangled",
+    "name": "Tangled",
+    "url": "https://tangled.org",
+    "description": "Social code-collaboration platform built around Git repositories."
+  },
+  {
+    "slug": "streamplace",
+    "name": "Streamplace",
+    "url": "https://stream.place",
+    "description": "Open-source livestreaming platform built on the AT Protocol."
+  },
+  {
+    "slug": "jazz",
+    "name": "Jazz",
+    "url": "https://jazz.tools",
+    "description": "Local-first database and sync engine for building collaborative applications."
+  },
+  {
+    "slug": "voidzero",
+    "name": "VoidZero",
+    "url": "https://voidzero.dev",
+    "description": "Our mission is to make the next generation of JavaScript developers more productive than ever before"
+  },
+  {
+    "slug": "one-stack",
+    "name": "OneStack",
+    "url": "https://onestack.dev",
+    "description": "One is a React framework focused on simplicity that lets you target both web and native at once with a single Vite plugin."
+  },
+  {
+    "slug": "retcon",
+    "name": "Retcon",
+    "url": "https://retcon.app",
+    "description": "macOS Git client for safely rewriting and cleaning up repository history."
+  },
+  {
+    "slug": "rive",
+    "name": "Rive",
+    "url": "https://rive.app",
+    "description": "Behind Spotify Wrapped, Duolingo, and products reaching 2 billion users. Design, animate, and code in one place. Ship everywhere."
+  },
+  {
+    "slug": "herodevs",
+    "name": "HeroDevs",
+    "url": "https://herodevs.com",
+    "description": "Stay secure on the open source software you already run. HeroDevs builds and patches secured replacements for end-of-life releases, under a 14-day CVE SLA."
+  },
+  {
+    "slug": "storybook",
+    "name": "Storybook",
+    "url": "https://storybook.js.org",
+    "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free."
+  },
+  {
+    "slug": "mailtrap",
+    "name": "Mailtrap",
+    "url": "https://mailtrap.io",
+    "description": "Modern Email Delivery Platform for developer & product teams. Fast delivery. High inboxing rates. 24/7 expert support. Email API/SMTP for reliable email sending"
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "url": "https://figma.com",
+    "description": "Figma is the canvas where design, code, and AI come together. From first idea to shipped product — go from concept to production with your whole team, in one place."
+  },
+  {
+    "slug": "paperclip",
+    "name": "Paperclip",
+    "url": "https://paperclip.ing",
+    "description": "Manage a team of AI agents to run your business. Org charts, budgets, governance, and goals — all in one deployment."
+  },
+  {
+    "slug": "platform-engineering-labs",
+    "name": "Platform Engineering Labs",
+    "url": "https://platform.engineering",
+    "description": "Full IaC. No drift. Minimal blast radius. AI at any scale. All in code. Full control."
+  },
+  {
+    "slug": "flox",
+    "name": "Flox",
+    "url": "https://flox.dev",
+    "description": "Flox gives platform teams one declared environment that stays reproducible for every developer and agent, from the first commit through to production."
+  },
+  {
+    "slug": "manifold-security",
+    "name": "Manifold",
+    "url": "https://manifold.security",
+    "description": "Coding agents are on your endpoints. Do you know what they're doing? Manifold gives security teams runtime visibility into autonomous AI agents."
+  },
+  {
+    "slug": "maestro",
+    "name": "Maestro",
+    "url": "https://maestro.dev",
+    "description": "Create reliable UI tests fast. Run free on CLI or Maestro Studio, then scale on Maestro Cloud. Automate iOS, Android and web with simple setup."
+  },
+  {
+    "slug": "browser-use",
+    "name": "Browser Use",
+    "url": "https://browser-use.com",
+    "description": "Browser Use Agents finish the task. Browser Infrastructure gives your code managed browsers that don't get blocked. 82% on Internal Bench Hard at 17¢ per solved task, $0.02 per browser hour."
+  },
+  {
+    "slug": "amplitude",
+    "name": "Amplitude",
+    "url": "https://amplitude.com",
+    "description": "From analytics to feedback to code, Amplitude brings AI into every step of building self-improving products. Start free with 2M events per month."
+  },
+  {
+    "slug": "hilstart",
+    "name": "Hilstart",
+    "url": "https://hilstart.io",
+    "description": "Upload your board. Hilstart builds a specification you approve, writes executable tests, runs them on real hardware once you confirm, and returns a report built from the measurements."
+  },
+  {
+    "slug": "mentlio",
+    "name": "Mentlio",
+    "url": "https://mentlio.com",
+    "description": "Mentlio measures enterprise AI adoption, quality, training gaps, and ROI without collecting prompts or source code."
+  },
+  {
+    "slug": "herdr",
+    "name": "herdr",
+    "url": "https://herdr.dev",
+    "description": "Herdr is the runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing — and you can attach again from anything with a keyboard."
+  },
+  {
+    "slug": "jcode",
+    "name": "Jcode",
+    "url": "https://jcode.sh",
+    "description": "jcode is an open-source AI coding agent for the terminal, written in Rust. Durable memory, background tasks, and agent swarms, installed with one command."
+  },
+  {
+    "slug": "agent-fm",
+    "name": "Agent FM",
+    "url": "https://agentfm.ai",
+    "description": "Describe the outcome. Agent FM completes the work across your files, browser, and inbox."
+  },
+  {
+    "slug": "riften",
+    "name": "Riften",
+    "url": "https://riften.ai",
+    "description": "AI gateway that routes workloads across models and helps companies train private models from production results."
+  },
+  {
+    "slug": "hiloop",
+    "name": "hiloop",
+    "url": "https://hiloop.ai",
+    "description": "Snapshottable, forkable compute for research agents, with observability built in. Every run is one queryable trace. Bring your own harness, or use ours."
+  },
+  {
+    "slug": "gitcafe",
+    "name": "GitCafe",
+    "url": "https://git.cafe",
+    "description": "A fast, independent git forge for code, pull requests, and review, built on a git engine we wrote ourselves."
+  },
+  {
+    "slug": "graphify-labs",
+    "name": "Graphify Labs",
+    "url": "https://graphify.com",
+    "description": "110k+ GitHub stars. Graphify turns your codebase into a knowledge graph your AI assistant queries instead of grepping: no embeddings, just a graph it can trace and cite. Open source, on-device, Apache 2.0."
+  },
+  {
+    "slug": "agency-tool-company",
+    "name": "Agency Tool Company",
+    "url": "https://agencytool.com",
+    "description": "Over-the-air (OTA) software updates and fleet management built for robotics. Ship code, containers and configs to field robots 20x faster than a docker pull."
+  },
+  {
+    "slug": "waddle-labs",
+    "name": "Waddle Labs",
+    "url": "https://waddlelabs.ai",
+    "description": "Connect our API to your robot and enter a prompt. Our agents write code and use skills to produce a working policy."
+  },
+  {
+    "slug": "hardware-intelligence",
+    "name": "hardware intelligence",
+    "url": "https://hardwareintelligence.ai",
+    "description": "AI tools for the chips your AI runs on. Say hi to the future of chip design."
+  },
+  {
+    "slug": "alkera-ai",
+    "name": "Alkera AI",
+    "url": "https://alkera.ai",
+    "description": "Alkera is a data engineering agent that works natively across your entire data stack — strict data governance, reasoning over exact column-level lineage, and a living knowledge base built from your team's work."
+  },
+  {
+    "slug": "conifer",
+    "name": "Conifer",
+    "url": "https://conifer.build",
+    "description": "Conifer routes to the Pareto frontier: the cheapest seat that still clears the work. Name a model and that model is served."
+  },
+  {
+    "slug": "agnost-ai",
+    "name": "Agnost AI",
+    "url": "https://agnost.ai",
+    "description": "Product analytics for conversational agents. Find silent failures, user frustration, feature requests, and policy violations across every conversation."
+  },
+  {
+    "slug": "hyperprobe",
+    "name": "HyperProbe",
+    "url": "https://hyperprobe.co",
+    "description": "AI on-call agent that investigates production incidents and helps engineers resolve them."
+  },
+  {
+    "slug": "amulet",
+    "name": "Amulet",
+    "url": "https://amulet.so",
+    "description": "Instantly fork isolated, writable file systems without copying data. Mount in under 100 ms and keep work available across parallel AI workloads."
+  },
+  {
+    "slug": "speko",
+    "name": "Speko",
+    "url": "https://speko.ai",
+    "description": "Every voice model is benchmarked in English. Your users don't speak English. Speko measures 56 speech and language models across 10 languages, then routes each session to the one that actually wins."
+  },
+  {
+    "slug": "inkbox",
+    "name": "Inkbox",
+    "url": "https://inkbox.ai",
+    "description": "Identity and communication infrastructure for AI agents."
+  },
+  {
+    "slug": "prized",
+    "name": "Prized",
+    "url": "https://prized.dev",
+    "description": "Prized is an always-on dev box that feels like localhost. Two-way sync with .git included, ports mirrored to localhost, sessions that never die. Five sizes, from $50 a box a month, nothing metered."
+  },
+  {
+    "slug": "simantic",
+    "name": "Simantic",
+    "url": "https://simantic.dev",
+    "description": "Simantic is the AI-native firmware simulation platform: run, test, and debug embedded firmware on emulated MCUs and peripherals — STM32, ESP32, nRF and more — with AI agents validating every build, no physical…"
+  },
+  {
+    "slug": "hoplite",
+    "name": "Hoplite",
+    "url": "https://hoplite.sh",
+    "description": "Cloud development environments designed for coding agents."
+  },
+  {
+    "slug": "linzumi",
+    "name": "Linzumi",
+    "url": "https://linzumi.com",
+    "description": "A familiar team chat with a fleet of coding agents inside every channel. Drive them from anywhere. Bring your team into the thread. Ship together."
+  },
+  {
+    "slug": "machine0",
+    "name": "machine0",
+    "url": "https://machine0.io",
+    "description": "Up to 60 vCPUs, 240 GB RAM & GPUs. Designed for agents using CLI or MCP. Billed by the minute."
+  },
+  {
+    "slug": "zenbu",
+    "name": "Zenbu",
+    "url": "https://zenbu.dev",
+    "description": "Hackable desktop interface for the Pi coding agent with plugins, worktrees, Git, and terminal integration."
+  },
+  {
+    "slug": "codag",
+    "name": "Codag",
+    "url": "https://codag.ai",
+    "description": "Codag cuts coding-agent costs without changing how developers work. One command attaches it to Claude Code and Codex, and it teaches your agent to read large tool results efficiently."
+  },
+  {
+    "slug": "alchemize",
+    "name": "Alchemize",
+    "url": "https://tryalchemize.com",
+    "description": "Alchemize is the AI code review platform where teams review with context and automatically test with agents."
+  },
+  {
+    "slug": "godhands",
+    "name": "GodHands",
+    "url": "https://godhands.dev",
+    "description": "When a role changes hands, GodHands reconstructs who they dealt with, what they had promised and how the work actually got done — and delivers a complete handover in one day."
+  },
+  {
+    "slug": "archal",
+    "name": "Archal",
+    "url": "https://archal.ai",
+    "description": "Create isolated sandboxes with stateful API environments for GitHub, Slack, Stripe, and more. Test AI agents through REST or MCP, then reset to a known state."
+  },
+  {
+    "slug": "inth",
+    "name": "Inth",
+    "url": "https://inth.com",
+    "description": "Manage cookie banners, preferences, regional rules, script loading, and consent records in code, without blocking scripts or black-box CMPs."
+  },
+  {
+    "slug": "superlog",
+    "name": "Superlog",
+    "url": "https://superlog.sh",
+    "description": "Connect your app and get pull requests with production fixes delivered in Slack."
+  },
+  {
+    "slug": "ara",
+    "name": "Ara",
+    "url": "https://ara.so",
+    "description": "Ara is the autonomous software engineer for companies. Connect GitHub, assign issues, and get evidence-backed pull requests with recordings, logs, and review-ready changes."
+  },
+  {
+    "slug": "keyframe-labs",
+    "name": "Keyframe Labs",
+    "url": "https://keyframelabs.com",
+    "description": "Keyframe enables anyone to bring AI to life with photoreal, conversational humans."
+  },
+  {
+    "slug": "superset",
+    "name": "Superset",
+    "url": "https://superset.sh",
+    "description": "Bring Claude Code, Codex, OpenCode, or any coding agent into one workspace. Run tasks in parallel, isolate changes, and review everything in one place."
+  },
+  {
+    "slug": "incidentfox",
+    "name": "IncidentFox",
+    "url": "https://incidentfox.ai",
+    "description": "AI site reliability engineer that investigates incidents and production failures."
+  },
+  {
+    "slug": "salus",
+    "name": "Salus",
+    "url": "https://usesalus.ai",
+    "description": "Salus checks each AI agent action against policy and evidence before it reaches your systems, then helps the agent correct unsafe actions."
+  },
+  {
+    "slug": "corelayer",
+    "name": "Corelayer",
+    "url": "https://corelayer.com",
+    "description": "Corelayer is an AI-native production support platform and AI SRE that root-causes production incidents and automates production on-call, support, and operational work in 2026, with BYOC, on-prem support, and PII…"
+  },
+  {
+    "slug": "skillsync",
+    "name": "Skillsync",
+    "url": "https://skillsync.com",
+    "description": "Skillsync picks up every Claude Code, Codex, and Cursor session already on your machine, turns what worked into reusable skills, and shares them with every teammate on every agent. Local first, zero setup."
+  },
+  {
+    "slug": "coasts",
+    "name": "Coasts",
+    "url": "https://coasts.dev",
+    "description": "Free, open source parallel runtimes for AI agents. Run multiple isolated environments on your machine — no cloud, no conflicts."
+  },
+  {
+    "slug": "radius",
+    "name": "Radius",
+    "url": "https://radiusbrowser.com",
+    "description": "Radius is a free macOS browser for coding agents. Run Claude Code, Codex, and Cursor in parallel across worktrees — agents, terminals, and diffs all in tabs."
+  },
+  {
+    "slug": "lemma",
+    "name": "Lemma",
+    "url": "https://uselemma.ai",
+    "description": "Surface silent failures, pull context across traces, improve your agent before users churn."
+  },
+  {
+    "slug": "parse",
+    "name": "Parse",
+    "url": "https://parse.bot",
+    "description": "Parse is a web scraping API that turns any website into a structured REST API. 2,500+ pre-built APIs, MCP server for AI agents, SDKs, and a free tier."
+  },
+  {
+    "slug": "moss",
+    "name": "Moss",
+    "url": "https://moss.dev",
+    "description": "Moss delivers sub-10ms semantic search for conversational AI, voice agents, and copilots. Connect your data once — Moss indexes and distributes it wherever your agent runs: in-browser, on-device, or in the cloud."
+  },
+  {
+    "slug": "clad-labs",
+    "name": "Clad Labs",
+    "url": "https://useclad.ai",
+    "description": "Clad triages, investigates, and resolves support issues end-to-end — so your team can focus on what matters. Autonomous support automation backed by Y Combinator."
+  },
+  {
+    "slug": "kestrel-ai",
+    "name": "Kestrel AI",
+    "url": "https://usekestrel.ai",
+    "description": "AI agents for platform engineering. Automate incident response, cloud provisioning, CI/CD, and developer requests with deterministic workflows across your entire stack."
+  },
+  {
+    "slug": "compyle",
+    "name": "Compyle",
+    "url": "https://compyle.ai",
+    "description": "Compyle automates the production work behind every Phase I ESA — from data collection through draft report — so your EPs can take on more projects without taking on more hours."
+  },
+  {
+    "slug": "fastshot",
+    "name": "Fastshot",
+    "url": "https://fastshot.ai",
+    "description": "Turn a simple prompt into a real iOS and Android app. Fastshot builds, designs, and deploys mobile apps with AI—no coding required."
+  }
+]

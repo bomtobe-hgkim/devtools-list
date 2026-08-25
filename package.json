@@ -1,0 +1,10 @@
+{
+  "name": "devtools-list",
+  "version": "1.0.0",
+  "description": "A comprehensive public directory of developer tools, maintained by Scaling DevTools.",
+  "private": false,
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs",
+    "check": "node scripts/check-data.mjs && node scripts/generate-readme.mjs --check"
+  }
+}
