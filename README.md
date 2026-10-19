@@ -2,7 +2,7 @@
 
 # Developer Tools Directory
 
-A comprehensive list of 571 developer tools, maintained by [Scaling DevTools](https://scalingdevtools.com) as part of our [DevTools landing-page gallery](https://scalingdevtools.com/landing-pages).
+A comprehensive list of 572 developer tools, maintained by [Scaling DevTools](https://scalingdevtools.com) as part of our [DevTools landing-page gallery](https://scalingdevtools.com/landing-pages).[DevTools landing-page gallery](https://scalingdevtools.com/landing-pages).
 
 We track these companies’ homepages to help DevTools founders and teams study how developer products explain themselves. This repository is public so the directory can improve with the community.
 
@@ -364,6 +364,7 @@ Missing a DevTool? [Suggest it for the landing-page gallery](https://scalingdevt
 | OpenStatus | [openstatus.dev](https://openstatus.dev) | Ship your status page before your SOC 2 auditor asks for it. Communicate incidents, prove compliance readiness, and monitor uptime from 28 global regions. Open source and free to start. |
 | OpsLevel | [opslevel.com](https://opslevel.com) | Boost developer experience with OpsLevel – an internal developer portal unifying tools, knowledge, and tasks to help teams focus on coding, not operational roadblocks. |
 | Orb | [withorb.com](https://withorb.com) | Design, execute, and operate revenue with usage-based billing. Orb helps modern software companies adapt pricing as products, usage, and costs evolve. |
+| Orke | [orke.bomtobe.com/en](https://orke.bomtobe.com/en/) | BOMTOBE’s desktop workspace for Claude Code, Codex, and other AI agents, with a terminal, web window, Git review, and scheduled AI employees. |
 | Ory | [ory.com](https://ory.com) | Add customer identity, OAuth, permissions, B2B SSO, or agent security with Ory best practices built in. One command spins up a local stack in seconds. |
 | OutSystems | [outsystems.com](https://outsystems.com) | OutSystems combines a low-code foundation with AI-driven software development to deliver enterprise apps and custom agents with full SDLC governance. |
 | OX Security | [ox.security](https://ox.security) | Accelerate the transition to software that secures itself. OX Security pinpoints risk to the exact line of code, eliminating security debt from AI generation to cloud runtime. |
