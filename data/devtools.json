@@ -3425,4 +3425,11 @@
     "url": "https://fastshot.ai",
     "description": "Turn a simple prompt into a real iOS and Android app. Fastshot builds, designs, and deploys mobile apps with AI—no coding required."
   }
+,
+  {
+    "slug": "orke",
+    "name": "Orke",
+    "url": "https://orke.bomtobe.com/en/",
+    "description": "BOMTOBE’s desktop workspace for Claude Code, Codex, and other AI agents, with a terminal, web window, Git review, and scheduled AI employees."
+  }
 ]
